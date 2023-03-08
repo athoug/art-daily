@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "VT323";
+  src: url('fonts/VT323-Regular.eot');
+  src: url('fonts/VT323-Regular.eot') format('embedded-opentype'),
+       url('fonts/VT323-Regular.woff2') format('woff2'),
+       url('fonts/VT323-Regular.woff') format('woff'),
+       url('fonts/VT323-Regular.ttf') format('truetype');
+}
