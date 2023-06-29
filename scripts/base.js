@@ -2,7 +2,7 @@
 data = {};
 
 const loadCards = async () => {
-	const response = await fetch('data.json')
+	const response = await fetch('https://github.com/athoug/art-daily/blob/main/data.json')
 		.then((res) => res.json())
 		.then((res) => {
 			data = res;
