@@ -24,8 +24,12 @@ const loadCards = async () => {
               <p class="card-title">${data.art[i].title}</p>
             </div>
             <div class="card-image">
-						<img src="${data.art[i].source}/thumbnail.${data.art[i].format}" alt="art image" />
-					</div>
+						  <img
+              src="${data.art[i].source}/thumbnail.${data.art[i].format}" 
+              alt="art image - ${data.art[i].title}"
+              style="mix-blend-mode: ${data.art[i].blendMode}"
+              />
+					  </div>
           </div>
 			</a>`
 			);
