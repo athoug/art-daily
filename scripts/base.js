@@ -23,7 +23,9 @@ const loadCards = async () => {
               <p class="card-number">${data.art[i].number}</p>
               <p class="card-title">${data.art[i].title}</p>
             </div>
-            <div class="card-image"></div>
+            <div class="card-image">
+						<img src="${data.art[i].source}/thumbnail.${data.art[i].format}" alt="art image" />
+					</div>
           </div>
 			</a>`
 			);
