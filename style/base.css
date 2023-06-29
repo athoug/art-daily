@@ -12,7 +12,9 @@
 }
 
 body {
+	max-width: 2015px;
 	min-height: 100vh;
+	margin: auto;
 	background-color: var(--main-body-color);
 	color: var(--main-text-color);
 	font-size: 16px;
@@ -56,4 +58,11 @@ a {
 	background-color: var(--main-red);
 	border-radius: 50px;
 	margin-right: 1em;
+}
+
+.card-wrapper {
+	width: 100%;
+	height: 100%;
+	display: flex;
+	flex-wrap: wrap;
 }
