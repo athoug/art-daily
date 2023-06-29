@@ -9,7 +9,7 @@ const loadCards = async () => {
 		})
 		.catch((error) => {
 			console.error(error);
-			data = null;
+			data = {};
 		});
 
 	if (Object.keys(data).length > 0) {
@@ -34,6 +34,8 @@ const loadCards = async () => {
 			</a>`
 			);
 		}
+	} else {
+		console.error('problem loading data');
 	}
 };
 
