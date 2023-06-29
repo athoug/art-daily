@@ -2,7 +2,7 @@
 data = {};
 
 const loadCards = async () => {
-	const response = await fetch('../data.json')
+	const response = await fetch('data.json')
 		.then((res) => res.json())
 		.then((res) => {
 			data = res;
