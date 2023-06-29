@@ -11,7 +11,6 @@ const loadCards = async () => {
 			data = res;
 		})
 		.catch((error) => {
-			console.error(error);
 			data = {};
 		});
 
@@ -37,8 +36,6 @@ const loadCards = async () => {
 			</a>`
 			);
 		}
-	} else {
-		console.error('problem loading data');
 	}
 };
 
