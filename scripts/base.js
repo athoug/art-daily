@@ -2,7 +2,10 @@
 data = {};
 
 const loadCards = async () => {
-	const response = await fetch('https://github.com/athoug/art-daily/blob/main/data.json')
+	const response = await fetch(
+		'https://github.com/athoug/art-daily/blob/main/data.json',
+		{ mode: 'no-cors' }
+	)
 		.then((res) => res.json())
 		.then((res) => {
 			data = res;
