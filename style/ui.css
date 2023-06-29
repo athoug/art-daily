@@ -10,7 +10,7 @@
 	position: relative;
 }
 
-.card-discription {
+.card-description {
 	position: absolute;
 	width: 100%;
 	height: 100%;
@@ -34,4 +34,16 @@
 	margin-bottom: 1.525em;
 	margin-left: 1.6em;
 	margin-right: 1.6em;
+}
+
+.card-image {
+	width: 100%;
+	height: 100%;
+}
+
+.card-image img {
+	height: 100%;
+	width: 100%;
+	border-radius: 5px;
+	mix-blend-mode: multiply;
 }

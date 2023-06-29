@@ -19,7 +19,7 @@ const loadCards = async () => {
 				'afterbegin',
 				`<a href="https://www.athoug.com" target="_blank">
           <div class="card-container">
-            <div class="card-discription">
+            <div class="card-description">
               <p class="card-number">${data.art[i].number}</p>
               <p class="card-title">${data.art[i].title}</p>
             </div>
