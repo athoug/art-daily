@@ -7,7 +7,7 @@
 	"art": [
 		{
 			"number": "001",
-			"title": "Art pice # 1",
+			"title": "points, points, and more points",
 			"source": "./art/day-001",
 			"format": "gif",
 			"blendMode": "multiply"
