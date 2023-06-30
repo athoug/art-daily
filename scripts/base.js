@@ -1,3 +1,9 @@
+/*
+	Thanks to Rich and his article "Load JSON file locally using pure Javascript" 
+	I finally managed to load JSON to my file and actually have it work on github
+	here's the article link
+	https://codepen.io/KryptoniteDove/post/load-json-file-locally-using-pure-javascript
+*/
 function loadJSON(callback) {
 	var xobj = new XMLHttpRequest();
 	xobj.overrideMimeType('application/json');
@@ -22,7 +28,7 @@ function init() {
 			for (let i = 0; i < JSON_data.art.length; i++) {
 				document.querySelector('.card-wrapper').insertAdjacentHTML(
 					'afterbegin',
-					`<a href="https://www.athoug.com" target="_blank">
+					`<a href="${JSON_data.art[i].source}" target="_blank">
           <div class="card-container">
             <div class="card-description">
               <p class="card-number">${JSON_data.art[i].number}</p>

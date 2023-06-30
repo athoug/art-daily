@@ -11,69 +11,6 @@
 			"source": "./art/day-001",
 			"format": "gif",
 			"blendMode": "multiply"
-		},
-		{
-			"number": "002",
-			"title": "Art pice # 2",
-			"source": "./art/day-002",
-			"format": "gif",
-			"blendMode": "multiply"
-		},
-		{
-			"number": "003",
-			"title": "Art pice # 3",
-			"source": "./art/day-003",
-			"format": "gif",
-			"blendMode": "multiply"
-		},
-		{
-			"number": "004",
-			"title": "Art pice # 4",
-			"source": "./art/day-004",
-			"format": "jpg",
-			"blendMode": "multiply"
-		},
-		{
-			"number": "005",
-			"title": "Art pice # 5",
-			"source": "./art/day-005",
-			"format": "gif",
-			"blendMode": "color-dodge"
-		},
-		{
-			"number": "006",
-			"title": "Art pice # 6",
-			"source": "./art/day-006",
-			"format": "gif",
-			"blendMode": "screen"
-		},
-		{
-			"number": "007",
-			"title": "Art pice # 7",
-			"source": "./art/day-007",
-			"format": "jpg",
-			"blendMode": "multiply"
-		},
-		{
-			"number": "008",
-			"title": "Art pice # 8",
-			"source": "./art/day-008",
-			"format": "gif",
-			"blendMode": "multiply"
-		},
-		{
-			"number": "009",
-			"title": "Art pice # 9",
-			"source": "./art/day-009",
-			"format": "gif",
-			"blendMode": "multiply"
-		},
-		{
-			"number": "0010",
-			"title": "Art pice # 10",
-			"source": "./art/day-010",
-			"format": "gif",
-			"blendMode": "multiply"
 		}
 	]
 }
