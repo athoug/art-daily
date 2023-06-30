@@ -1,42 +1,44 @@
-// get the data of the art projects
-data = {};
+function loadJSON(callback) {
+	var xobj = new XMLHttpRequest();
+	xobj.overrideMimeType('application/json');
+	xobj.open('GET', 'data.json', true);
+	xobj.onreadystatechange = function () {
+		if (xobj.readyState == 4 && xobj.status == '200') {
+			// Required use of an anonymous callback as .open will NOT return a value but simply returns undefined in asynchronous mode
+			callback(xobj.responseText);
+		}
+	};
+	xobj.send(null);
+}
 
-const loadCards = async () => {
-	const response = await fetch(
-		'https://github.com/athoug/art-daily/blob/main/data.json',
-		{ mode: 'no-cors' }
-	)
-		.then((res) => res.json())
-		.then((res) => {
-			data = res;
-		})
-		.catch((error) => {
-			data = {};
-		});
+function init() {
+	loadJSON(function (response) {
+		// Parse JSON string into object
+		var JSON_data = JSON.parse(response);
 
-	if (Object.keys(data).length > 0) {
-		// load the dom with the nodes
-		for (let i = 0; i < data.art.length; i++) {
-			document.querySelector('.card-wrapper').insertAdjacentHTML(
-				'afterbegin',
-				`<a href="https://www.athoug.com" target="_blank">
+		//  create the cards if the data loaded correctly
+		if (Object.keys(JSON_data).length > 0) {
+			// load the dom with the nodes
+			for (let i = 0; i < JSON_data.art.length; i++) {
+				document.querySelector('.card-wrapper').insertAdjacentHTML(
+					'afterbegin',
+					`<a href="https://www.athoug.com" target="_blank">
           <div class="card-container">
             <div class="card-description">
-              <p class="card-number">${data.art[i].number}</p>
-              <p class="card-title">${data.art[i].title}</p>
+              <p class="card-number">${JSON_data.art[i].number}</p>
+              <p class="card-title">${JSON_data.art[i].title}</p>
             </div>
             <div class="card-image">
 						  <img
-              src="${data.art[i].source}/thumbnail.${data.art[i].format}" 
-              alt="art image - ${data.art[i].title}"
-              style="mix-blend-mode: ${data.art[i].blendMode}"
+              src="${JSON_data.art[i].source}/thumbnail.${JSON_data.art[i].format}" 
+              alt="art image - ${JSON_data.art[i].title}"
+              style="mix-blend-mode: ${JSON_data.art[i].blendMode}"
               />
 					  </div>
           </div>
 			</a>`
-			);
+				);
+			}
 		}
-	}
-};
-
-loadCards();
+	});
+}
