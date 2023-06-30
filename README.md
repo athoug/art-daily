@@ -8,4 +8,4 @@ The table below will hold the day, the sketch name, the link to the sketch, link
 | ----------- | ----------- | ----------- | ----------- |
 | 003      | Title       | [Link]()      |        |
 | 002      | Title       | [Link]()       |        |
-| 001      | Title       | [Link]()       |        |
+| 001      | Points       | [a lot of points](https://github.com/athoug/art-daily/tree/main/art/day-001)       |        |
