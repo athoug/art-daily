@@ -1,7 +1,9 @@
 const width = 400;
 const height = 400;
+const fr = 1;
 function setup() {
 	createCanvas(width, height);
+	frameRate(fr);
 }
 
 function draw() {
