@@ -56,5 +56,5 @@ Alright so today I did 3 different versions
 3. so I decided to draw more than one line and have the thickness change and damn I love it! it felt like an art piece
 
 Here's the result 
-
+![](https://github.com/athoug/art-daily/blob/main/art/day-002/day-2-yellow.gif)
 and with that day 2 is all done ✅
