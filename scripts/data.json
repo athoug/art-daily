@@ -17,7 +17,7 @@
 			"title": "random lines everywhere",
 			"source": "./art/day-002",
 			"format": "gif",
-			"blendMode": "multiply"
+			"blendMode": "darken"
 		}
 	]
 }
