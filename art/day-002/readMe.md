@@ -21,8 +21,8 @@ with `random` added to the code
 it made it a bit more interesting, but what if we wanted it to change position from time to time? That's where we can use loops
 
 ### draw function 
-in animation, the way they animate the characters movement, is by having different frames of the character (with changing 
-position and movement) played after one another, that gives us the illusion of moments when in reality they are images
+in animation, the way they animate the movement of the character is by having different frames of the character (changing 
+position and movement) played after one another, which gives us the illusion of moments when in reality they are images
 the same concept is adopted here.
 
 Processing comes with a method called [`draw`](https://p5js.org/reference/#/p5/draw) which loops over the code inside it over and 
@@ -47,6 +47,14 @@ with the [`background`]() method we can reset the canvas (as well as choose a ba
   }
 ```
 
-This was the summary of today's lesson. Now it's time for me to put that in practice.
+This was the summary of today's lesson. Now it's time for me to put that into practice.
 
 ## Practice
+Alright so today I did 3 different versions 
+1. was the same as the code in the background. It was all cool and nice. but it felt a bit too fast which brings me to version 2
+2. in this one, I added a frame rate and I liked that it slowed down a bit but something felt missing
+3. so I decided to draw more than one line and have the thickness change and damn I love it! it felt like an art piece
+
+Here's the result 
+
+and with that day 2 is all done ✅
