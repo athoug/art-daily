@@ -11,6 +11,13 @@
 			"source": "./art/day-001",
 			"format": "gif",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "002",
+			"title": "random lines everywhere",
+			"source": "./art/day-002",
+			"format": "gif",
+			"blendMode": "multiply"
 		}
 	]
 }

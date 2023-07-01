@@ -9,8 +9,7 @@ function setup() {
 }
 
 function draw() {
-	// background(255, 204, 0);
-	background(55);
+	background(255, 204, 0);
 	for (let i = 0; i < lines; i++) {
 		strokeWeight(random(maxSize));
 		line(random(width), random(height), random(width), random(height));
