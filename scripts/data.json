@@ -14,7 +14,7 @@
 		},
 		{
 			"number": "002",
-			"title": "random lines everywhere",
+			"title": "random acts of lines",
 			"source": "./art/day-002",
 			"format": "gif",
 			"blendMode": "darken"
