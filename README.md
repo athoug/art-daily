@@ -7,5 +7,5 @@ The table below will hold the day, the sketch name, the link to the sketch, link
 | Day      | Sketch | Link      | Article |
 | ----------- | ----------- | ----------- | ----------- |
 | 003      | Title       | [Link]()      |        |
-| 002      | Title       | [Link]()       |        |
+| 002      | Lines      | [Randome acts of lines](https://athoug.github.io/art-daily/art/day-002/index-3.html)       |   ReadMe](https://github.com/athoug/art-daily/tree/main/art/day-002)     |
 | 001      | Points       | [a lot of points](https://athoug.github.io/art-daily/art/day-001/)     |    [ReadMe](https://github.com/athoug/art-daily/tree/main/art/day-001)    |
