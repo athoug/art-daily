@@ -57,4 +57,5 @@ Alright so today I did 3 different versions
 
 Here's the result 
 ![](https://github.com/athoug/art-daily/blob/main/art/day-002/day-2-yellow.gif)
+
 and with that day 2 is all done ✅
