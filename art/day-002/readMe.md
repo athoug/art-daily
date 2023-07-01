@@ -2,6 +2,7 @@
 So in today's lesson, we went over the Cartesian coordinate system. This helped one conceptualize how pixels are drawn on the screen and how we start off at the top left corner with x being 0 and y 0 as well (0,0) then as we move horizontally to the right, the x value increases, and as we move down the screen the y value increases. 
 
 ![image of Cartesian plane](http://www.e-cartouche.ch/content_reg/cartouche/graphics/en/image/coordinates.jpg)
+
 So all in all every pixel on the screen can be plotted by having the x and y value of its location on the plane. 
 Now that makes us understand better what the arguments we passed to `point` are. As well as understand why we passed 4 values 
 to `line` since a line is made of 2 points and each point is made of 2 values, hence the 4 values.
