@@ -1,7 +1,7 @@
-# Day 3 - Shades of Color and FrameRates
+# Day 003 - Shades of Color and FrameRates
 Last we stopped was when we discussed the `draw` method and having our line be drawn in different locations
 based on the `random` method to make it look like it's moving we added the `background` method which acts
-as if we have a blank piece of paper and started drawing again. In today's lesson we'll continue exploring 
+as if we have a blank piece of paper and started drawing again. In today's lesson, we'll continue exploring 
 the `background` method
 
 
