@@ -1,5 +1,10 @@
+const width = 400;
+const height = 400;
 function setup() {
-	console.log('Hi');
+	createCanvas(width, height);
+	frameRate(1);
 }
 
-function draw() {}
+function draw() {
+	background(random(256), random(256), random(256));
+}
