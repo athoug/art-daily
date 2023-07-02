@@ -1,4 +1,4 @@
-# Day 2 - Cartesian plane, lines, and loops
+# Day 002 - Cartesian plane, lines, and loops
 So in today's lesson, we went over the Cartesian coordinate system. This helped one conceptualize how pixels are drawn on the screen and how we start off at the top left corner with x being 0 and y 0 as well (0,0) then as we move horizontally to the right, the x value increases, and as we move down the screen the y value increases. 
 
 ![image of Cartesian plane](http://www.e-cartouche.ch/content_reg/cartouche/graphics/en/image/coordinates.jpg)
