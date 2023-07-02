@@ -18,6 +18,13 @@
 			"source": "./art/day-002",
 			"format": "gif",
 			"blendMode": "darken"
+		},
+		{
+			"number": "003",
+			"title": "different shades of light",
+			"source": "./art/day-003",
+			"format": "gif",
+			"blendMode": "multiply"
 		}
 	]
 }
