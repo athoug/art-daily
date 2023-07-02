@@ -1,5 +1,8 @@
+const width = 400;
+const height = 400;
+
 function setup() {
-	console.log('Hi');
+	createCanvas(width, height);
 }
 
 function draw() {}
