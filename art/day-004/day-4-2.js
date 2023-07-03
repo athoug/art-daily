@@ -6,6 +6,8 @@ let b;
 
 let x1;
 let y1;
+let x2;
+let y2;
 
 function setup() {
 	createCanvas(width, height);
@@ -16,12 +18,15 @@ function setup() {
 
 	x1 = null;
 	y1 = null;
+	x2 = null;
+	y2 = null;
 }
 
 function draw() {
-	stroke(r, g, b);
 	if (mouseIsPressed === true) {
-		if (x1 !== null && y1 !== null) {
+	} else {
+		if (x1 !== null && y1 !== null && x2 === null && y2 === null) {
+			stroke(r, g, b);
 			line(x1, y1, mouseX, mouseY);
 		}
 	}
