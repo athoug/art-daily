@@ -25,6 +25,13 @@
 			"source": "./art/day-003",
 			"format": "gif",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "004",
+			"title": "line masterpiece",
+			"source": "./art/day-004",
+			"format": "gif",
+			"blendMode": "multiply"
 		}
 	]
 }
