@@ -32,6 +32,13 @@
 			"source": "./art/day-004",
 			"format": "gif",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "005",
+			"title": "animated line",
+			"source": "./art/day-005",
+			"format": "gif",
+			"blendMode": "multiply"
 		}
 	]
 }
