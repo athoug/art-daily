@@ -39,6 +39,13 @@
 			"source": "./art/day-005",
 			"format": "gif",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "006",
+			"title": "horizontal... or is it vertical",
+			"source": "./art/day-006",
+			"format": "gif",
+			"blendMode": "multiply"
 		}
 	]
 }
