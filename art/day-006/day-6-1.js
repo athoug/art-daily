@@ -12,10 +12,8 @@ function setup() {
 }
 
 function draw() {
-	// background(51);
-	// stroke(255);
-	background(255);
-	stroke(51);
+	background(51);
+	stroke(255);
 	strokeWeight(random(10));
 	let x = random(width);
 	line(x, 0, x, height);
