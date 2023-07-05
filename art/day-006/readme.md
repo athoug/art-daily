@@ -52,7 +52,7 @@ if you're interested in creative coding
 we ended the lesson with a challenge to do the same program but vertically so let's do just that.
 Obviously, it was easy since all I had to do is switch from `y` to `x` but I did do a bit of adjustments.
 I slowed down the frame rate and made the stroke width change 
-```
+``` javascript
 function draw() {
 	background(255);
 	stroke(51);
@@ -70,7 +70,7 @@ Here's the result
 
 ![](https://github.com/athoug/art-daily/blob/main/art/day-006/thumbnail.gif)
 
-And with that, day 6 is all done ✔️
+And with that, day 6 is all done ✅
 
 side note, so far all the code is basic, and I understand that, but when can I do cool stuff? I know I shouldn't rush it but
 I'm hungry for more complex results...
