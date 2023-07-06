@@ -46,6 +46,13 @@
 			"source": "./art/day-006",
 			"format": "gif",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "007",
+			"title": "shades of pink",
+			"source": "./art/day-007",
+			"format": "gif",
+			"blendMode": "multiply"
 		}
 	]
 }
