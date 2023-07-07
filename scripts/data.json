@@ -53,6 +53,13 @@
 			"source": "./art/day-007",
 			"format": "gif",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "008",
+			"title": "the case of teh intersecting circles",
+			"source": "./art/day-008",
+			"format": "png",
+			"blendMode": "multiply"
 		}
 	]
 }
