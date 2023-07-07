@@ -59,7 +59,7 @@
 			"title": "the case of the intersecting circles",
 			"source": "./art/day-008",
 			"format": "gif",
-			"blendMode": "multiply"
+			"blendMode": "luminosity"
 		}
 	]
 }
