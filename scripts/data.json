@@ -56,7 +56,7 @@
 		},
 		{
 			"number": "008",
-			"title": "the case of teh intersecting circles",
+			"title": "the case of the intersecting circles",
 			"source": "./art/day-008",
 			"format": "png",
 			"blendMode": "multiply"
