@@ -68,6 +68,7 @@ The sketch looks a bit like this,
 So as I am ecstatic that we're moving forward with new drawing functions, I'd like to try to do this sort of image
 
 ![](https://www.miskatonic.org/images/20141219-circles-r-12.png)
+
 The source is [this article](https://www.miskatonic.org/2014/12/19/intersecting-circles/)
 
 okay so my first attempt was drawing a circle on the screen 
@@ -233,4 +234,117 @@ function setup() {
 ![](https://github.com/athoug/art-daily/blob/main/art/day-008/attempt-7.png)
 
 YES! That's what I wanted. Mind you this should be much better with a loop but hey I 
-was experimenting not thinking clean. Anyways, I want to see if this can be animated? 
+was experimenting not thinking clean. Anyways, I want to see if this can be animated.
+
+### Animation attempt
+so little nive me thought, hey let me just throw the code into the draw loop and see what happens
+``` javascript
+const width = 400;
+const height = 400;
+const size_x = width / 2;
+const size_y = height / 2;
+const center_x = width / 2;
+const center_y = height / 2;
+
+const first_increment = 50;
+const second_increment = 35;
+
+let i = 0;
+
+function setup() {
+  createCanvas(width, height);
+  background(51);
+  noFill();
+  stroke(255);
+}
+
+function draw() {
+  if (i <= first_increment) {
+    ellipse(center_x - i, center_y, size_x, size_y);
+    ellipse(center_x, center_y - i, size_x, size_y);
+    ellipse(center_x + i, center_x, size_x, size_y);
+    ellipse(center_x, center_y + i, size_x, size_y);
+
+    i++;
+  }
+}
+```
+
+![](https://github.com/athoug/art-daily/blob/main/art/day-008/attempt-1.gif)
+
+ummm yeah, that won't work. To figure out what happens here, I decided to just draw the first set of circles and then add the other just for clarities sake so that's what I did
+``` javascript
+function draw() {
+  if (i <= first_increment) {
+    ellipse(center_x - i, center_y, size_x, size_y);
+    i++;
+  }
+}
+```
+
+![](https://github.com/athoug/art-daily/blob/main/art/day-008/attempt-2.gif)
+
+okay, this made it clear that I'm not resetting the canvas. Easy fix so let's do that and loop over all the circles
+and reset the values to keep the drawing going 
+``` javascript
+  const first_increment = 50;
+const second_increment = 35;
+
+let i = 0;
+let z = 0;
+
+function setup() {
+  createCanvas(width, height);
+  background(51);
+  noFill();
+  stroke(255);
+  frameRate(10);
+}
+
+function draw() {
+  background(51);
+  if (i <= first_increment) {
+    ellipse(center_x - i, center_y, size_x, size_y);
+    ellipse(center_x, center_y - i, size_x, size_y);
+    ellipse(center_x + i, center_x, size_x, size_y);
+    ellipse(center_x, center_y + i, size_x, size_y);
+
+    i++;
+  } else {
+    i = 0;
+  }
+
+  if (z <= second_increment) {
+    ellipse(center_x - z, center_y - z, size_x, size_y);
+    ellipse(center_x - z, center_y + z, size_x, size_y);
+    ellipse(center_x + z, center_y - z, size_x, size_y);
+    ellipse(center_x + z, center_y + z, size_x, size_y);
+
+    z++;
+  } else {
+    z = 0;
+  }
+}
+```
+
+![](https://github.com/athoug/art-daily/blob/main/art/day-008/attempt-3.gif) 
+
+This is nice. I just don't like the abrupt reset where the image disappears for a second and we're back to zero. I'd like it to be gradual and have this ping-pong kind of animation effect. so this means that I just need let it decrease once it reaches 50
+and here's where I start running into issues.  my first one (which was a cool effect in my opinion) is the sudden blink then rotation 
+
+![](https://github.com/athoug/art-daily/blob/main/art/day-008/attempt-5.gif)
+
+okay, so I wasn't sure what was happening, so nothing can help me right here other than `console.log` and when I did that, it was clear that at a certain point, I get stuck between 50 and 51.
+
+![](https://github.com/athoug/art-daily/blob/main/art/day-008/attempt-6.gif)
+
+The only way out of this is by adding a flag that tells me if it's reversing or not and when I did that, thank god the ping pong effect works
+
+![](https://github.com/athoug/art-daily/blob/main/art/day-008/attempt-8.gif)
+
+and now we have this nice rippling effect of the intersecting circles
+
+![](https://github.com/athoug/art-daily/blob/main/art/day-008/thumbnail.gif)
+
+I know this wasn't the intended animation, but those happy accidents are always welcome. I'll try the rotating one another time (but hey I did do it by accident, not sure how though) 
+but with that, day 8 is all done ✅
