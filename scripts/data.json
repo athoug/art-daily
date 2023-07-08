@@ -60,6 +60,13 @@
 			"source": "./art/day-008",
 			"format": "gif",
 			"blendMode": "luminosity"
+		},
+		{
+			"number": "009",
+			"title": "a circle race",
+			"source": "./art/day-009",
+			"format": "gif",
+			"blendMode": "luminosity"
 		}
 	]
 }
