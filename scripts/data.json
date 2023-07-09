@@ -67,6 +67,13 @@
 			"source": "./art/day-009",
 			"format": "gif",
 			"blendMode": "luminosity"
+		},
+		{
+			"number": "010",
+			"title": "condition me this",
+			"source": "./art/day-010",
+			"format": "gif",
+			"blendMode": "luminosity"
 		}
 	]
 }
