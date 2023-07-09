@@ -6,6 +6,7 @@ At the start of this journey, I plan on using the resource [funprogramming.org ]
 The table below will hold the day, the sketch name, the link to the sketch, link to the article (if it exists)
 | Day      | Sketch | Link      | Article |
 | ----------- | ----------- | ----------- | ----------- |
+| 010      | Conditional       | [condition me this](https://athoug.github.io/art-daily/art/day-010/index.html)      |       |
 | 009      | Animated Circle       | [circle race](https://athoug.github.io/art-daily/art/day-009/index.html)      |    [ReadMe](https://github.com/athoug/art-daily/tree/main/art/day-009)    |
 | 008      | Circles & Rectangles       | [the case of the intersecting circles](https://athoug.github.io/art-daily/art/day-008/index-2.html)      |    [ReadMe](https://github.com/athoug/art-daily/tree/main/art/day-008)    |
 | 007      | Animated Line Colors       | [shades of pink](https://athoug.github.io/art-daily/art/day-007/index.html)      |    [ReadMe](https://github.com/athoug/art-daily/tree/main/art/day-007)    |
