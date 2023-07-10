@@ -1,14 +1,14 @@
 # Day 011 - Things happening sometimes
 
-In todays lesson we get introduced to `print` to help us see what is happening. In other words debugging. you can see me using it in [day 9]() it's your friend when your program isn't behaving teh way you want it to, or the results aren't as expected. So remember, `print`, `console.log` or whichever log you use in your preferred programming language is your friend.
+In today's lesson we get introduced to `print` to help us see what is happening. In other words, debugging. you can see me using it on [day 9](https://github.com/athoug/art-daily/tree/main/art/day-009) it's your friend when your program isn't behaving the way you want it to, or the results aren't as expected. So remember, `print`, `console.log`, or whichever log you use in your preferred programming language is your friend.
 
-Now the lesson builds on yesterdays sketch (now it's 3 days on the same sketch) but this time we wanted to change an event sometimes. hence we chose to use the size. It introduced probability but very surface level. in later classes I believe it will be much expanded but for now, just know when we check a condition the smaller the changes of it occurring is based on how little options you have. Meaning say we generate a number randomly between 0 and 10
+Now the lesson builds on yesterday's sketch (now it's 3 days on the same sketch) but this time we wanted to change an event sometimes. hence we chose to use the size. It introduced probability but is very surface-level. In later classes, I believe it will be much expanded but for now, just know when we check a condition the smaller the chances of it occurring is based on how few options you have. Meaning say we generate a number randomly between 0 and 10
 
 ```java
   random_num = random(10)
 ```
 
-so when we couple it with a conditional (as in an [`if`]() statement or an expression that's translate to a boolean value `true` or `false`) it happens sometimes. And the degree of it happening is in our hands let's take an example of
+so when we couple it with a conditional (as in an [`if`](https://p5js.org/reference/#/p5/if-else) statement or an expression that's translated to a boolean value `true` or `false`) it happens sometimes. And the degree of it happening is in our hands let's take an example of
 
 ```java
 
@@ -18,7 +18,7 @@ so when we couple it with a conditional (as in an [`if`]() statement or an expre
 
 ```
 
-the chances of seeing that print method is hight as in 80%, why? because the possibility of options are high as in there are a range of 3-10 possible values that can make this condition pass. SO the pool of possibilities is hight, now to make it less as in 50% we increase the value from 2 to 5
+the chances of seeing that print method are hight as in 80%, why? because the possibility of options is high as there is a range of 3-10 possible values that can make this condition pass. So the pool of possibilities is high, now to make it less than 50% we increase the value from 2 to 5
 
 ```java
 
@@ -30,7 +30,7 @@ the chances of seeing that print method is hight as in 80%, why? because the pos
 
 so the lower the options the less possibility it might happen.
 
-Now here's the way we used in in todays class in regards to the ball size
+Now here's the way we used in todays class in regard to the ball size
 
 ```java
 float show_circle_x = 0;
@@ -70,6 +70,6 @@ void draw() {
 
 Result
 
-![]()
+![](https://github.com/athoug/art-daily/blob/main/art/day-011/v1.gif)
 
 ## Practice
