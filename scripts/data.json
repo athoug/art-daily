@@ -70,8 +70,15 @@
 		},
 		{
 			"number": "010",
-			"title": "condition me this",
+			"title": "condition? I think so",
 			"source": "./art/day-010",
+			"format": "gif",
+			"blendMode": "luminosity"
+		},
+		{
+			"number": "011",
+			"title": "circle me this",
+			"source": "./art/day-011",
 			"format": "gif",
 			"blendMode": "luminosity"
 		}
