@@ -9,6 +9,7 @@ function setup() {
 	noFill();
 	stroke(255);
 	strokeWeight(2);
+	frameRate(3);
 
 	for (let j = 1; j < 6; j++) {
 		for (let i = 1; i < 7; i++) {
