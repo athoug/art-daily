@@ -81,6 +81,13 @@
 			"source": "./art/day-011",
 			"format": "gif",
 			"blendMode": "luminosity"
+		},
+		{
+			"number": "012",
+			"title": "circle, it's not my day",
+			"source": "./art/day-012",
+			"format": "gif",
+			"blendMode": "luminosity"
 		}
 	]
 }
