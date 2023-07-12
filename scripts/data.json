@@ -94,7 +94,7 @@
 			"title": "bouncing",
 			"source": "./art/day-013",
 			"format": "gif",
-			"blendMode": "lighten"
+			"blendMode": "color-dodge"
 		}
 	]
 }
