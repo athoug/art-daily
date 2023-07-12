@@ -88,6 +88,13 @@
 			"source": "./art/day-012",
 			"format": "gif",
 			"blendMode": "lighten"
+		},
+		{
+			"number": "013",
+			"title": "bouncing",
+			"source": "./art/day-013",
+			"format": "gif",
+			"blendMode": "lighten"
 		}
 	]
 }
