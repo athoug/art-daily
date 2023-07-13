@@ -95,6 +95,13 @@
 			"source": "./art/day-013",
 			"format": "gif",
 			"blendMode": "color-dodge"
+		},
+		{
+			"number": "014",
+			"title": "jitters",
+			"source": "./art/day-014",
+			"format": "gif",
+			"blendMode": "luminosity"
 		}
 	]
 }
