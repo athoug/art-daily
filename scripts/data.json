@@ -108,7 +108,7 @@
 			"title": "sometimes yes, sometimes no",
 			"source": "./art/day-015",
 			"format": "gif",
-			"blendMode": "luminosity"
+			"blendMode": "multiply"
 		}
 	]
 }
