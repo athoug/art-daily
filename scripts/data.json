@@ -102,6 +102,13 @@
 			"source": "./art/day-014",
 			"format": "gif",
 			"blendMode": "luminosity"
+		},
+		{
+			"number": "015",
+			"title": "sometimes yes, sometimes no",
+			"source": "./art/day-015",
+			"format": "gif",
+			"blendMode": "luminosity"
 		}
 	]
 }
