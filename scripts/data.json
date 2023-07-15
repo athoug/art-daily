@@ -109,6 +109,13 @@
 			"source": "./art/day-015",
 			"format": "gif",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "016",
+			"title": "draw me something",
+			"source": "./art/day-016",
+			"format": "gif",
+			"blendMode": "multiply"
 		}
 	]
 }
