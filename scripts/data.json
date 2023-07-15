@@ -115,7 +115,7 @@
 			"title": "draw me something",
 			"source": "./art/day-016",
 			"format": "gif",
-			"blendMode": "multiply"
+			"blendMode": "luminosity"
 		}
 	]
 }
