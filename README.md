@@ -6,6 +6,7 @@ At the start of this journey, I plan on using the resource [funprogramming.org ]
 The table below will hold the day, the sketch name, the link to the sketch, link to the article (if it exists)
 | Day      | Sketch | Link      | Article |
 | ----------- | ----------- | ----------- | ----------- |
+| 016      | System functions & variables       | [draw me something](https://athoug.github.io/art-daily/art/day-016/index.html)      |    [ReadMe](https://github.com/athoug/art-daily/tree/main/art/day-016)    |
 | 015      | Sometimes       | [barcode](https://athoug.github.io/art-daily/art/day-015/index.html)      |    [ReadMe](https://github.com/athoug/art-daily/tree/main/art/day-015)    |
 | 014      | Colors & Angles      | [circle, it's not my day](https://athoug.github.io/art-daily/art/day-014/index.html)      |     |
 | 013      | Border       | [bouncing](https://athoug.github.io/art-daily/art/day-013/index.html)      |    [ReadMe](https://github.com/athoug/art-daily/tree/main/art/day-013)    |
