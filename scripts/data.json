@@ -119,7 +119,7 @@
 		},
 		{
 			"number": "017",
-			"title": "stary night",
+			"title": "starry night",
 			"source": "./art/day-017",
 			"format": "gif",
 			"blendMode": "luminosity"
