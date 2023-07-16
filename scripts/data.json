@@ -116,6 +116,13 @@
 			"source": "./art/day-016",
 			"format": "gif",
 			"blendMode": "luminosity"
+		},
+		{
+			"number": "017",
+			"title": "stary night",
+			"source": "./art/day-017",
+			"format": "gif",
+			"blendMode": "luminosity"
 		}
 	]
 }
