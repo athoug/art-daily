@@ -123,6 +123,13 @@
 			"source": "./art/day-017",
 			"format": "gif",
 			"blendMode": "luminosity"
+		},
+		{
+			"number": "018",
+			"title": "whirlwind",
+			"source": "./art/day-018",
+			"format": "gif",
+			"blendMode": "color-dodge"
 		}
 	]
 }
