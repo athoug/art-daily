@@ -3,7 +3,7 @@ we experienced conditional code `if` and `else` blocks that control if a code wo
 I wanted to repeat something over and over say draw 50 circles. 
 I don't want to duplicate the code over and over again 50 times 
 
-![](https://i.pinimg.com/736x/3b/75/ec/3b75ec94f2914c94c99b269fca9c7181.jpg))
+![](https://i.pinimg.com/736x/3b/75/ec/3b75ec94f2914c94c99b269fca9c7181.jpg)
 
 I want a way to write it once and it repeats, and that's where the while code block comes to the rescue 
 there are 3 parts for a while to work 
