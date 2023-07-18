@@ -130,6 +130,13 @@
 			"source": "./art/day-018",
 			"format": "gif",
 			"blendMode": "color-dodge"
+		},
+		{
+			"number": "019",
+			"title": "psychedelic",
+			"source": "./art/day-019",
+			"format": "gif",
+			"blendMode": "luminosity"
 		}
 	]
 }
