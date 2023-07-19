@@ -137,6 +137,13 @@
 			"source": "./art/day-019",
 			"format": "gif",
 			"blendMode": "luminosity"
+		},
+		{
+			"number": "020",
+			"title": "type, type, type",
+			"source": "./art/day-020",
+			"format": "gif",
+			"blendMode": "luminosity"
 		}
 	]
 }
