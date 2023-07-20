@@ -6,6 +6,7 @@ At the start of this journey, I plan on using the resource [funprogramming.org ]
 The table below will hold the day, the sketch name, the link to the sketch, link to the article (if it exists)
 | Day      | Sketch | Link      | Article |
 | ----------- | ----------- | ----------- | ----------- |
+| 020      | Text       | [type, type, type](https://athoug.github.io/art-daily/art/day-020/index.html)      |    |
 | 019      | More While       | [psychedelic](https://athoug.github.io/art-daily/art/day-019/index.html)      |    |
 | 018      | While       | [whirlwind](https://athoug.github.io/art-daily/art/day-018/index.html)      |    [ReadMe](https://github.com/athoug/art-daily/tree/main/art/day-018)    |
 | 017      | Fadding Trick       | [starry night](https://athoug.github.io/art-daily/art/day-017/index.html)      |    |
