@@ -144,6 +144,13 @@
 			"source": "./art/day-020",
 			"format": "gif",
 			"blendMode": "luminosity"
+		},
+		{
+			"number": "021",
+			"title": "patterns",
+			"source": "./art/day-021",
+			"format": "gif",
+			"blendMode": "color-dodge"
 		}
 	]
 }
