@@ -22,18 +22,17 @@ function draw() {
 	x += random(-5, 5);
 	y += random(-5, 5);
 
-	fill(255, 200);
-	stroke(255);
-	rectMode(CENTER);
-	rect(x, y, 20, 20);
-
+	fill(255, 107, 108);
+	stroke(51);
 	// trails
-	if (mouseIsPressed) {
-		extraCanvas.fill(255, 150);
-		extraCanvas.noStroke();
-		extraCanvas.ellipse(mouseX, mouseY, 40, 40);
-	}
+
+	let starX = random(width);
+	let starY = random(height);
+	extraCanvas.ellipse(starX, starY, 10, 10);
 
 	// to see the extra canvas
 	image(extraCanvas, 0, 0);
+
+	rectMode(CENTER);
+	rect(x, y, 20, 20);
 }
