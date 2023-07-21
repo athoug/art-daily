@@ -151,6 +151,13 @@
 			"source": "./art/day-021",
 			"format": "gif",
 			"blendMode": "color-dodge"
+		},
+		{
+			"number": "022",
+			"title": "circles that are patterns",
+			"source": "./art/day-022",
+			"format": "gif",
+			"blendMode": "multiply"
 		}
 	]
 }
