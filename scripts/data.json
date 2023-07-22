@@ -158,6 +158,13 @@
 			"source": "./art/day-022",
 			"format": "gif",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "023",
+			"title": "can you translate?",
+			"source": "./art/day-023",
+			"format": "gif",
+			"blendMode": "multiply"
 		}
 	]
 }
