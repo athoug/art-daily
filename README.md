@@ -6,6 +6,7 @@ At the start of this journey, I plan on using the resource [funprogramming.org ]
 The table below will hold the day, the sketch name, the link to the sketch, link to the article (if it exists)
 | Day      | Sketch | Link      | Article |
 | ----------- | ----------- | ----------- | ----------- |
+| 024      | More Rotation       | [follow me](https://athoug.github.io/art-daily/art/day-024/index.html)      |    |
 | 023      | Translate       | [can you translate](https://athoug.github.io/art-daily/art/day-023/index.html)      |    [ReadMe](https://github.com/athoug/art-daily/tree/main/art/day-023)    |
 | 022      | Rotation Pattern       | [circles that are patterns](https://athoug.github.io/art-daily/art/day-022/index.html)      |    [ReadMe](https://github.com/athoug/art-daily/tree/main/art/day-022)    |
 | 021      | Rotation       | [patterns](https://athoug.github.io/art-daily/art/day-021/index.html)      |    |
