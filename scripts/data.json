@@ -165,6 +165,13 @@
 			"source": "./art/day-023",
 			"format": "gif",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "024",
+			"title": "follow me",
+			"source": "./art/day-024",
+			"format": "gif",
+			"blendMode": "luminosity"
 		}
 	]
 }
