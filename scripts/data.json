@@ -172,6 +172,14 @@
 			"source": "./art/day-024",
 			"format": "gif",
 			"blendMode": "luminosity"
+		},
+
+		{
+			"number": "025",
+			"title": "i am the center. no, i am!",
+			"source": "./art/day-025",
+			"format": "gif",
+			"blendMode": "multiply"
 		}
 	]
 }
