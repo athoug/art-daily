@@ -173,11 +173,17 @@
 			"format": "gif",
 			"blendMode": "luminosity"
 		},
-
 		{
 			"number": "025",
 			"title": "i am the center. no, i am!",
 			"source": "./art/day-025",
+			"format": "gif",
+			"blendMode": "multiply"
+		},
+		{
+			"number": "026",
+			"title": "astrict *",
+			"source": "./art/day-026",
 			"format": "gif",
 			"blendMode": "multiply"
 		}
