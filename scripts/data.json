@@ -186,6 +186,13 @@
 			"source": "./art/day-026",
 			"format": "gif",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "027",
+			"title": "some more rotations",
+			"source": "./art/day-027",
+			"format": "gif",
+			"blendMode": "multiply"
 		}
 	]
 }
