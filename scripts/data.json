@@ -193,6 +193,13 @@
 			"source": "./art/day-027",
 			"format": "gif",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "028",
+			"title": "size me up",
+			"source": "./art/day-028",
+			"format": "gif",
+			"blendMode": "multiply"
 		}
 	]
 }
