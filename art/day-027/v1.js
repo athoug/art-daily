@@ -5,6 +5,8 @@ let r = 0;
 let w = 25;
 let h = 100;
 
+let flip = 1;
+
 function setup() {
 	createCanvas(width, height);
 	smooth();
@@ -19,7 +21,20 @@ function draw() {
 	draw_rectangle(170, 200, w, h);
 	draw_rectangle(220, 200, w, h);
 	draw_rectangle(270, 200, w, h);
-	r += 0.03;
+
+	if (r < 0.6) {
+		r += 0.03 * flip;
+	}
+
+	if (round(r) >= 0.6) {
+		flip *= -1;
+	}
+
+	if (round(r) <= -0.6) {
+		flip *= -1;
+	}
+
+	console.log(round(r));
 }
 
 function draw_rectangle(x, y, w, h) {
