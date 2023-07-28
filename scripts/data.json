@@ -200,6 +200,13 @@
 			"source": "./art/day-028",
 			"format": "gif",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "029",
+			"title": "it's the grid",
+			"source": "./art/day-029",
+			"format": "gif",
+			"blendMode": "color-dodge"
 		}
 	]
 }
