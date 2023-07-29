@@ -10,7 +10,8 @@ let margins = 50;
 function setup() {
 	canvasRef = createCanvas(width, height);
 	smooth();
-	noStroke();
+	stroke(255);
+	strokeWeight(3);
 }
 
 function draw() {
@@ -24,7 +25,7 @@ function draw() {
 				margins * 1.25 + x * 30,
 				margins * 1.25 + y * 30,
 				s,
-				r + y + x
+				r + x + y
 			);
 			y += 1;
 		}
@@ -37,7 +38,7 @@ function draw() {
 function draw_rotating_object(x, y, s, sp) {
 	translate(x, y);
 	rotate(sp);
-	rect(0, 0, s);
+	line(0, 0, s, s);
 	resetMatrix();
 }
 
