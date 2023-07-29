@@ -11,6 +11,7 @@ function setup() {
 	canvasRef = createCanvas(width, height);
 	smooth();
 	ellipseMode(CORNER);
+	noStroke();
 }
 
 function draw() {
@@ -19,7 +20,8 @@ function draw() {
 	while (x < 10) {
 		let y = 0;
 		while (y < 10) {
-			fill(255 - y);
+			color = map(y, 0, 10, 0, 255);
+			fill(color, 199, 229);
 			drr(
 				margin + x * spaceBetweenObjects,
 				margin + y * spaceBetweenObjects,
