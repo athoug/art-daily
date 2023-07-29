@@ -207,6 +207,13 @@
 			"source": "./art/day-029",
 			"format": "gif",
 			"blendMode": "color-dodge"
+		},
+		{
+			"number": "030",
+			"title": "waaaavvvvveeesss",
+			"source": "./art/day-030",
+			"format": "gif",
+			"blendMode": "luminosity"
 		}
 	]
 }
