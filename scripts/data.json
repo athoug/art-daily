@@ -214,6 +214,13 @@
 			"source": "./art/day-030",
 			"format": "gif",
 			"blendMode": "luminosity"
+		},
+		{
+			"number": "031",
+			"title": "noise",
+			"source": "./art/day-031",
+			"format": "gif",
+			"blendMode": "multiply"
 		}
 	]
 }
