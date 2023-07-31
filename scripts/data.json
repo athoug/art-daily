@@ -221,6 +221,13 @@
 			"source": "./art/day-031",
 			"format": "gif",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "032",
+			"title": "eyeing you noise",
+			"source": "./art/day-032",
+			"format": "gif",
+			"blendMode": "multiply"
 		}
 	]
 }
