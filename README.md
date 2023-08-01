@@ -6,7 +6,8 @@ At the start of this journey, I plan on using the resource [funprogramming.org ]
 The table below will hold the day, the sketch name, the link to the sketch, link to the article (if it exists)
 | Day      | Sketch | Link      | Article |
 | ----------- | ----------- | ----------- | ----------- |
-| 022      | Noise Practice       | [eyeing you noise](https://athoug.github.io/art-daily/art/day-032/index.html)      | 
+| 033      | Animated Noise       | [the wave of noise](https://athoug.github.io/art-daily/art/day-033/index.html)      | 
+| 032      | Noise Practice       | [eyeing you noise](https://athoug.github.io/art-daily/art/day-032/index.html)      | 
 | 031      | Noise       | [noise](https://athoug.github.io/art-daily/art/day-031/index.html)      |     [ReadMe](https://github.com/athoug/art-daily/tree/main/art/day-031)    |
 | 030      | Wave       | [waaaavvvvveeesss](https://athoug.github.io/art-daily/art/day-030/index.html)      |     [ReadMe](https://github.com/athoug/art-daily/tree/main/art/day-030)    |
 | 029      | Grid       | [it's the grid](https://athoug.github.io/art-daily/art/day-029/index.html)      |     [ReadMe](https://github.com/athoug/art-daily/tree/main/art/day-029)    |
