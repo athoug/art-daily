@@ -228,6 +228,13 @@
 			"source": "./art/day-032",
 			"format": "gif",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "033",
+			"title": "the wave of noise",
+			"source": "./art/day-033",
+			"format": "gif",
+			"blendMode": "multiply"
 		}
 	]
 }
