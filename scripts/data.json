@@ -235,6 +235,13 @@
 			"source": "./art/day-033",
 			"format": "gif",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "034",
+			"title": "three noises",
+			"source": "./art/day-034",
+			"format": "gif",
+			"blendMode": "darken"
 		}
 	]
 }
