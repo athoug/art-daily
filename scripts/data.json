@@ -242,6 +242,13 @@
 			"source": "./art/day-034",
 			"format": "gif",
 			"blendMode": "darken"
+		},
+		{
+			"number": "035",
+			"title": "sin wave",
+			"source": "./art/day-035",
+			"format": "gif",
+			"blendMode": "multiply"
 		}
 	]
 }
