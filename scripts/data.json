@@ -249,6 +249,13 @@
 			"source": "./art/day-035",
 			"format": "gif",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "036",
+			"title": "smooth ball",
+			"source": "./art/day-036",
+			"format": "gif",
+			"blendMode": "luminosity"
 		}
 	]
 }
