@@ -256,6 +256,13 @@
 			"source": "./art/day-036",
 			"format": "gif",
 			"blendMode": "luminosity"
+		},
+		{
+			"number": "037",
+			"title": "moving wave",
+			"source": "./art/day-037",
+			"format": "gif",
+			"blendMode": "luminosity"
 		}
 	]
 }
