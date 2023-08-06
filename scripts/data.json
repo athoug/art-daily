@@ -245,7 +245,7 @@
 		},
 		{
 			"number": "035",
-			"title": "sin wave",
+			"title": "sine wave",
 			"source": "./art/day-035",
 			"format": "gif",
 			"blendMode": "multiply"
@@ -263,6 +263,13 @@
 			"source": "./art/day-037",
 			"format": "gif",
 			"blendMode": "luminosity"
+		},
+		{
+			"number": "038",
+			"title": "a mapped sine",
+			"source": "./art/day-038",
+			"format": "gif",
+			"blendMode": "multiply"
 		}
 	]
 }
