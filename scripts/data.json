@@ -270,6 +270,13 @@
 			"source": "./art/day-038",
 			"format": "gif",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "039",
+			"title": "a sine surprise",
+			"source": "./art/day-039",
+			"format": "gif",
+			"blendMode": "multiply"
 		}
 	]
 }
