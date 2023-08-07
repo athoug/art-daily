@@ -6,6 +6,7 @@ At the start of this journey, I plan on using the resource [funprogramming.org ]
 The table below will hold the day, the sketch name, the link to the sketch, link to the article (if it exists)
 | Day      | Sketch | Link      | Article |
 | ----------- | ----------- | ----------- | ----------- |
+| 039      | Curves with Sine       | [a sine surprise](https://athoug.github.io/art-daily/art/day-039/index.html)      | 
 | 038      | Map & Sine       | [mapped sine](https://athoug.github.io/art-daily/art/day-038/index.html)      | 
 | 037      | Sine * Sine       | [moving wave](https://athoug.github.io/art-daily/art/day-037/index.html)      | 
 | 036      | Map       | [smooth ball](https://athoug.github.io/art-daily/art/day-036/index.html)      | 
