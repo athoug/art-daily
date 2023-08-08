@@ -277,6 +277,13 @@
 			"source": "./art/day-039",
 			"format": "gif",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "040",
+			"title": "i don't even know",
+			"source": "./art/day-040",
+			"format": "gif",
+			"blendMode": "multiply"
 		}
 	]
 }
