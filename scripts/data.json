@@ -284,6 +284,13 @@
 			"source": "./art/day-040",
 			"format": "gif",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "041",
+			"title": "image me this",
+			"source": "./art/day-041",
+			"format": "gif",
+			"blendMode": "exclusion"
 		}
 	]
 }
