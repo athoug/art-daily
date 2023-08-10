@@ -291,6 +291,13 @@
 			"source": "./art/day-041",
 			"format": "gif",
 			"blendMode": "exclusion"
+		},
+		{
+			"number": "042",
+			"title": "do you copy?",
+			"source": "./art/day-042",
+			"format": "gif",
+			"blendMode": "exclusion"
 		}
 	]
 }
