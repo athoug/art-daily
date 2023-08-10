@@ -297,7 +297,7 @@
 			"title": "do you copy?",
 			"source": "./art/day-042",
 			"format": "gif",
-			"blendMode": "exclusion"
+			"blendMode": "multiply"
 		}
 	]
 }
