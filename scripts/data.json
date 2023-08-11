@@ -298,6 +298,13 @@
 			"source": "./art/day-042",
 			"format": "gif",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "043",
+			"title": "beeeeeeees",
+			"source": "./art/day-043",
+			"format": "gif",
+			"blendMode": "multiply"
 		}
 	]
 }
