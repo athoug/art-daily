@@ -305,6 +305,13 @@
 			"source": "./art/day-043",
 			"format": "gif",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "044",
+			"title": "i like to move it, move it",
+			"source": "./art/day-044",
+			"format": "gif",
+			"blendMode": "multiply"
 		}
 	]
 }
