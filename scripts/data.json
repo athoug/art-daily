@@ -312,6 +312,13 @@
 			"source": "./art/day-044",
 			"format": "gif",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "045",
+			"title": "can you stand still?",
+			"source": "./art/day-045",
+			"format": "gif",
+			"blendMode": "multiply"
 		}
 	]
 }
