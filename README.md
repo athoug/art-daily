@@ -6,6 +6,7 @@ At the start of this journey, I plan on using the resource [funprogramming.org ]
 The table below will hold the day, the sketch name, the link to the sketch, link to the article (if it exists)
 | Day      | Sketch | Link      | Article |
 | ----------- | ----------- | ----------- | ----------- |
+| 044      | Moving Image      | [i like to move it, move it](https://athoug.github.io/art-daily/art/day-044/index.html)      | 
 | 043      | [Follow Example](https://p5js.org/examples/interaction-wavemaker.html)      | [beeeeeees](https://athoug.github.io/art-daily/art/day-043/index.html)      | 
 | 042      | Image Copy      | [do you copy?](https://athoug.github.io/art-daily/art/day-042/index.html)      | 
 | 041      | Image       | [image me this](https://athoug.github.io/art-daily/art/day-041/index.html)      | 
