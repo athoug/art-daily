@@ -319,6 +319,13 @@
 			"source": "./art/day-045",
 			"format": "gif",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "046",
+			"title": "patterns",
+			"source": "./art/day-046",
+			"format": "gif",
+			"blendMode": "luminosity"
 		}
 	]
 }
