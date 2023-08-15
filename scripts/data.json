@@ -326,6 +326,13 @@
 			"source": "./art/day-046",
 			"format": "gif",
 			"blendMode": "luminosity"
+		},
+		{
+			"number": "047",
+			"title": "quote me",
+			"source": "./art/day-047",
+			"format": "gif",
+			"blendMode": "unset"
 		}
 	]
 }
