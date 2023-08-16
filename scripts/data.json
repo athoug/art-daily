@@ -333,6 +333,13 @@
 			"source": "./art/day-047",
 			"format": "gif",
 			"blendMode": "unset"
+		},
+		{
+			"number": "048",
+			"title": "just arrays",
+			"source": "./art/day-048",
+			"format": "png",
+			"blendMode": "multiply"
 		}
 	]
 }
