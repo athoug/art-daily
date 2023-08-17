@@ -340,6 +340,13 @@
 			"source": "./art/day-048",
 			"format": "png",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "049",
+			"title": "2d arrays are trippy",
+			"source": "./art/day-049",
+			"format": "gif",
+			"blendMode": "multiply"
 		}
 	]
 }
