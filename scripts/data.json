@@ -347,6 +347,13 @@
 			"source": "./art/day-049",
 			"format": "gif",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "050",
+			"title": "typography posters",
+			"source": "./art/day-050",
+			"format": "gif",
+			"blendMode": "multiply"
 		}
 	]
 }
