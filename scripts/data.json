@@ -354,6 +354,13 @@
 			"source": "./art/day-050",
 			"format": "gif",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "051",
+			"title": "star felid",
+			"source": "./art/day-051",
+			"format": "gif",
+			"blendMode": "lighten"
 		}
 	]
 }
