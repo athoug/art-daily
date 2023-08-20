@@ -361,6 +361,13 @@
 			"source": "./art/day-051",
 			"format": "gif",
 			"blendMode": "lighten"
+		},
+		{
+			"number": "052",
+			"title": "star ship",
+			"source": "./art/day-052",
+			"format": "gif",
+			"blendMode": "lighten"
 		}
 	]
 }
