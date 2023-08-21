@@ -368,6 +368,13 @@
 			"source": "./art/day-052",
 			"format": "gif",
 			"blendMode": "lighten"
+		},
+		{
+			"number": "053",
+			"title": "are you touching me?",
+			"source": "./art/day-053",
+			"format": "gif",
+			"blendMode": "lighten"
 		}
 	]
 }
