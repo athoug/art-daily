@@ -382,6 +382,13 @@
 			"source": "./art/day-054",
 			"format": "gif",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "055",
+			"title": "bouncing, bouncing, everywhere",
+			"source": "./art/day-055",
+			"format": "gif",
+			"blendMode": "multiply"
 		}
 	]
 }
