@@ -14,6 +14,13 @@ function draw() {
 
 	let i = 0;
 	while (i < x.length) {
+		textSize(random(20, 30));
+		if (random(20) > 17) {
+			textStyle(BOLD);
+		} else {
+			textStyle(NORMAL);
+		}
+
 		text(char[i], x[i], y[i]);
 		x[i] += random(-2, 2);
 		y[i] += random(-2, 2);
