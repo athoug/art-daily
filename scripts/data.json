@@ -389,6 +389,13 @@
 			"source": "./art/day-055",
 			"format": "gif",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "056",
+			"title": "3d vision",
+			"source": "./art/day-056",
+			"format": "gif",
+			"blendMode": "color-dodge"
 		}
 	]
 }
