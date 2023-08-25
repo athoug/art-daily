@@ -6,6 +6,7 @@ At the start of this journey, I plan on using the resource [funprogramming.org ]
 The table below will hold the day, the sketch name, the link to the sketch, link to the article (if it exists)
 | Day      | Sketch | Link      | Article |
 | ----------- | ----------- | ----------- | ----------- |
+| 057      | Lerp     | [lerping](https://athoug.github.io/art-daily/art/day-057/index.html)      |
 | 056      | 3D Cube     | [3d vision](https://athoug.github.io/art-daily/art/day-056/index.html)      |
 | 055      | More Dynamic Array      | [bouncing, bouncing, everywhere](https://athoug.github.io/art-daily/art/day-055/index.html)      | 
 | 054      | Dynamic Array      | [color me dots](https://athoug.github.io/art-daily/art/day-054/index.html)      | 
