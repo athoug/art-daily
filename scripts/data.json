@@ -399,8 +399,15 @@
 		},
 		{
 			"number": "057",
-			"title": "lerping",
+			"title": "larpping",
 			"source": "./art/day-057",
+			"format": "gif",
+			"blendMode": "multiply"
+		},
+		{
+			"number": "058",
+			"title": "are we close?",
+			"source": "./art/day-058",
 			"format": "gif",
 			"blendMode": "multiply"
 		}
