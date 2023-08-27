@@ -410,6 +410,13 @@
 			"source": "./art/day-058",
 			"format": "gif",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "059",
+			"title": "seeds of random",
+			"source": "./art/day-059",
+			"format": "gif",
+			"blendMode": "multiply"
 		}
 	]
 }
