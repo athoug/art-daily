@@ -417,6 +417,13 @@
 			"source": "./art/day-059",
 			"format": "gif",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "060",
+			"title": "going in circles",
+			"source": "./art/day-060",
+			"format": "gif",
+			"blendMode": "multiply"
 		}
 	]
 }
