@@ -6,7 +6,7 @@ At the start of this journey, I plan on using the resource [funprogramming.org ]
 The table below will hold the day, the sketch name, the link to the sketch, link to the article (if it exists)
 | Day      | Sketch | Link      | Article |
 | ----------- | ----------- | ----------- | ----------- |
-| 060      | Sin and Cos    | [going in circles](https://athoug.github.io/art-daily/art/day-060/index.html)      |
+| 060      | [Sin and Cos](https://jackschaedler.github.io/circles-sines-signals/sincos.html)    | [going in circles](https://athoug.github.io/art-daily/art/day-060/index.html)      |
 | 059      | Seed    | [rainbow seeds](https://athoug.github.io/art-daily/art/day-059/index.html)      |
 | 058      | Lerp and Dist    | [are we close?](https://athoug.github.io/art-daily/art/day-058/index.html)      |
 | 057      | Lerp     | [larpping](https://athoug.github.io/art-daily/art/day-057/index.html)      |
