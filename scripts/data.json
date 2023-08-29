@@ -424,6 +424,13 @@
 			"source": "./art/day-060",
 			"format": "gif",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "061",
+			"title": "circles?",
+			"source": "./art/day-061",
+			"format": "gif",
+			"blendMode": "multiply"
 		}
 	]
 }
