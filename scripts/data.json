@@ -431,6 +431,13 @@
 			"source": "./art/day-061",
 			"format": "gif",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "062",
+			"title": "too many motion",
+			"source": "./art/day-062",
+			"format": "gif",
+			"blendMode": "multiply"
 		}
 	]
 }
