@@ -6,6 +6,7 @@ At the start of this journey, I plan on using the resource [funprogramming.org ]
 The table below will hold the day, the sketch name, the link to the sketch, link to the article (if it exists)
 | Day      | Sketch | Link      | Article |
 | ----------- | ----------- | ----------- | ----------- |
+| 063      | Change Directions    | [veins](https://athoug.github.io/art-daily/art/day-063/index.html)      |
 | 062      | Motion    | [too many motion](https://athoug.github.io/art-daily/art/day-062/index.html)      |
 | 061      | Circular Motion    | [circles?](https://athoug.github.io/art-daily/art/day-061/index.html)      |
 | 060      | [Sin and Cos](https://jackschaedler.github.io/circles-sines-signals/sincos.html)    | [going in circles](https://athoug.github.io/art-daily/art/day-060/index.html)      |
