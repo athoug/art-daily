@@ -438,6 +438,13 @@
 			"source": "./art/day-062",
 			"format": "gif",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "063",
+			"title": "veins",
+			"source": "./art/day-063",
+			"format": "gif",
+			"blendMode": "multiply"
 		}
 	]
 }
