@@ -24,8 +24,6 @@ function setup() {
 			});
 		}
 	}
-
-	console.log(boxes);
 }
 
 function draw() {

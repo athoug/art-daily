@@ -12,7 +12,6 @@ let c = 0;
 function setup() {
 	createCanvas(width, height);
 	noStroke();
-	fill(pink);
 	frameRate(4);
 	colorMode(HSB, 100);
 	d = random(1, 11);
