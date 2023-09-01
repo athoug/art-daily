@@ -445,6 +445,13 @@
 			"source": "./art/day-063",
 			"format": "gif",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "064",
+			"title": "rythmed pixels",
+			"source": "./art/day-064",
+			"format": "gif",
+			"blendMode": "multiply"
 		}
 	]
 }
