@@ -452,6 +452,13 @@
 			"source": "./art/day-064",
 			"format": "gif",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "065",
+			"title": "circlebeats",
+			"source": "./art/day-065",
+			"format": "gif",
+			"blendMode": "multiply"
 		}
 	]
 }
