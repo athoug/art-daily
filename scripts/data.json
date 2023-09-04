@@ -466,6 +466,13 @@
 			"source": "./art/day-066",
 			"format": "gif",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "067",
+			"title": "cool bezier",
+			"source": "./art/day-067",
+			"format": "gif",
+			"blendMode": "multiply"
 		}
 	]
 }
