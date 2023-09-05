@@ -473,6 +473,13 @@
 			"source": "./art/day-067",
 			"format": "gif",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "068",
+			"title": "wild curves",
+			"source": "./art/day-068",
+			"format": "gif",
+			"blendMode": "multiply"
 		}
 	]
 }
