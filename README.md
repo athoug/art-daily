@@ -7,6 +7,7 @@ At the start of this journey, I plan on using the resource [funprogramming.org ]
 The table below will hold the day, the sketch name, the link to the sketch, link to the article (if it exists)
 | Day | Sketch | Link | Article |
 | ----------- | ----------- | ----------- | ----------- |
+| 068 | Moving Bézier Curves | [wild curves](https://athoug.github.io/art-daily/art/day-068/index.html) |
 | 067 | [Bézier Curves](https://pomax.github.io/bezierinfo/) | [cool bezier](https://athoug.github.io/art-daily/art/day-067/index.html) |
 | 066 | Shortcuts | [pixelated grid](https://athoug.github.io/art-daily/art/day-066/index.html) |
 | 065 | More Modules | [circlebeats](https://athoug.github.io/art-daily/art/day-065/index.html) |
