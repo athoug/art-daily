@@ -486,7 +486,7 @@
 			"title": "points a whirlwind",
 			"source": "./art/day-069",
 			"format": "gif",
-			"blendMode": "multiply"
+			"blendMode": "lighten"
 		}
 	]
 }
