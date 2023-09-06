@@ -480,6 +480,13 @@
 			"source": "./art/day-068",
 			"format": "gif",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "069",
+			"title": "points a whirlwind",
+			"source": "./art/day-069",
+			"format": "gif",
+			"blendMode": "multiply"
 		}
 	]
 }
