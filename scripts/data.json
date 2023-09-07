@@ -487,6 +487,13 @@
 			"source": "./art/day-069",
 			"format": "gif",
 			"blendMode": "lighten"
+		},
+		{
+			"number": "070",
+			"title": "star burst",
+			"source": "./art/day-070",
+			"format": "gif",
+			"blendMode": "lighten"
 		}
 	]
 }
