@@ -496,11 +496,18 @@
 			"blendMode": "lighten"
 		},
 		{
-			"number": "071",
+			"number": "071.0",
 			"title": "3d plant",
 			"source": "./art/day-071",
 			"format": "gif",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "071.1",
+			"title": "ellipse rotating in 3d",
+			"source": "./art/day-071-extra",
+			"format": "gif",
+			"blendMode": "lighten"
 		}
 	]
 }
