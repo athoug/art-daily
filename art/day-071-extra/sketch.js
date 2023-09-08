@@ -8,8 +8,10 @@ const amount = 300;
 function setup() {
 	createCanvas(width, height, WEBGL);
 	smooth();
+	fill('#F3A712');
+	stroke('#D8950F');
+
 	noFill();
-	stroke('#F3A712');
 }
 
 function draw() {
