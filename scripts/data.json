@@ -494,6 +494,13 @@
 			"source": "./art/day-070",
 			"format": "gif",
 			"blendMode": "lighten"
+		},
+		{
+			"number": "071",
+			"title": "3d plant",
+			"source": "./art/day-071",
+			"format": "gif",
+			"blendMode": "multiply"
 		}
 	]
 }
