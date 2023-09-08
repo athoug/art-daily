@@ -7,6 +7,7 @@ At the start of this journey, I plan on using the resource [funprogramming.org ]
 The table below will hold the day, the sketch name, the link to the sketch, link to the article (if it exists)
 | Day | Sketch | Link | Article |
 | ----------- | ----------- | ----------- | ----------- |
+| 071 | More 3D | [3d plant](https://athoug.github.io/art-daily/art/day-071/index.html) |
 | 070 | More Rotation | [star burst](https://athoug.github.io/art-daily/art/day-070/index.html) |
 | 069 | 3D Rotation | [points a whirlwind](https://athoug.github.io/art-daily/art/day-069/index.html) |
 | 068 | Moving Bézier Curves | [wild curves](https://athoug.github.io/art-daily/art/day-068/index.html) |
