@@ -508,6 +508,13 @@
 			"source": "./art/day-071-extra",
 			"format": "gif",
 			"blendMode": "lighten"
+		},
+		{
+			"number": "071.2",
+			"title": "too many 3d",
+			"source": "./art/day-071-extra-2",
+			"format": "gif",
+			"blendMode": "lighten"
 		}
 	]
 }
