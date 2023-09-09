@@ -515,6 +515,13 @@
 			"source": "./art/day-071-extra-2",
 			"format": "gif",
 			"blendMode": "lighten"
+		},
+		{
+			"number": "072",
+			"title": "this was supposed to be about colors",
+			"source": "./art/day-072",
+			"format": "gif",
+			"blendMode": "soft-light"
 		}
 	]
 }
