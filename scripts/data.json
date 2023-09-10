@@ -522,6 +522,13 @@
 			"source": "./art/day-072",
 			"format": "gif",
 			"blendMode": "soft-light"
+		},
+		{
+			"number": "073",
+			"title": "i see grad",
+			"source": "./art/day-073",
+			"format": "gif",
+			"blendMode": "multiply"
 		}
 	]
 }
