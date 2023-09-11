@@ -529,6 +529,13 @@
 			"source": "./art/day-073",
 			"format": "gif",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "074",
+			"title": "revisionist history",
+			"source": "./art/day-074",
+			"format": "gif",
+			"blendMode": "multiply"
 		}
 	]
 }
