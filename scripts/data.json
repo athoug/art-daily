@@ -536,6 +536,13 @@
 			"source": "./art/day-074",
 			"format": "gif",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "075",
+			"title": "press me",
+			"source": "./art/day-075",
+			"format": "gif",
+			"blendMode": "multiply"
 		}
 	]
 }
