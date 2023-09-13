@@ -543,6 +543,13 @@
 			"source": "./art/day-075",
 			"format": "gif",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "076",
+			"title": "broken code",
+			"source": "./art/day-076",
+			"format": "gif",
+			"blendMode": "multiply"
 		}
 	]
 }
