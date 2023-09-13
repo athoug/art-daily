@@ -549,7 +549,7 @@
 			"title": "broken code",
 			"source": "./art/day-076",
 			"format": "gif",
-			"blendMode": "multiply"
+			"blendMode": "color-dodge"
 		}
 	]
 }
