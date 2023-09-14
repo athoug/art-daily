@@ -550,6 +550,13 @@
 			"source": "./art/day-076",
 			"format": "gif",
 			"blendMode": "color-dodge"
+		},
+		{
+			"number": "077",
+			"title": "what time is it?",
+			"source": "./art/day-077",
+			"format": "gif",
+			"blendMode": "multiply"
 		}
 	]
 }
