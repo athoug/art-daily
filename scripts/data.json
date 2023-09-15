@@ -557,6 +557,13 @@
 			"source": "./art/day-077",
 			"format": "gif",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "078",
+			"title": "noise?",
+			"source": "./art/day-078",
+			"format": "gif",
+			"blendMode": "color-dodge"
 		}
 	]
 }
