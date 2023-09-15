@@ -7,6 +7,7 @@ At the start of this journey, I plan on using the resource [funprogramming.org ]
 The table below will hold the day, the sketch name, the link to the sketch, link to the article (if it exists)
 | Day | Sketch | Link | Article |
 | ----------- | ----------- | ----------- | ----------- |
+| 078 | update & load pixels | [noise?](https://athoug.github.io/art-daily/art/day-078/index.html) |
 | 077 | Strings | [what time is it?](https://athoug.github.io/art-daily/art/day-077/index.html) |
 | 076 | loadPixels | [broken code](https://athoug.github.io/art-daily/art/day-076/index.html) |
 | 075 | mouseReleased | [press me](https://athoug.github.io/art-daily/art/day-075/index.html) |
