@@ -7,10 +7,6 @@ let a = 0;
 let d;
 let imageSize;
 
-const message = 'my mind is a bit scattered';
-const textXposition = halfW - message.length * 4;
-const textC = '#F4D35E';
-
 function setup() {
 	createCanvas(width, height);
 
@@ -21,7 +17,7 @@ function setup() {
 function draw() {
 	loadPixels();
 	for (let i = 0; i < imageSize; i += 4) {
-		c = color(random(255));
+		c = color(map(sin(i * a), -1, 1, 0, 255));
 		pixels[i] = red(c);
 		pixels[i + 1] = green(c);
 		pixels[i + 2] = blue(c);
@@ -29,9 +25,5 @@ function draw() {
 	}
 	updatePixels();
 
-	textSize(18);
-	stroke(textC);
-	fill(textC);
-	text(message, textXposition, halfH);
 	a += 0.02;
 }
