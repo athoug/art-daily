@@ -564,6 +564,13 @@
 			"source": "./art/day-078",
 			"format": "gif",
 			"blendMode": "color-dodge"
+		},
+		{
+			"number": "079",
+			"title": "let's filter up",
+			"source": "./art/day-079",
+			"format": "gif",
+			"blendMode": "multiply"
 		}
 	]
 }
