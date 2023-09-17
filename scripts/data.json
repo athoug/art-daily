@@ -571,6 +571,13 @@
 			"source": "./art/day-079",
 			"format": "gif",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "080",
+			"title": "let's make a movie",
+			"source": "./art/day-080",
+			"format": "gif",
+			"blendMode": "multiply"
 		}
 	]
 }
