@@ -584,7 +584,7 @@
 			"title": "drag me",
 			"source": "./art/day-081",
 			"format": "gif",
-			"blendMode": "luminosity"
+			"blendMode": "darken"
 		}
 	]
 }
