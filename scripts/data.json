@@ -578,6 +578,13 @@
 			"source": "./art/day-080",
 			"format": "gif",
 			"blendMode": "luminosity"
+		},
+		{
+			"number": "081",
+			"title": "drag me",
+			"source": "./art/day-081",
+			"format": "gif",
+			"blendMode": "luminosity"
 		}
 	]
 }
