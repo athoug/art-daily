@@ -585,6 +585,13 @@
 			"source": "./art/day-081",
 			"format": "gif",
 			"blendMode": "darken"
+		},
+		{
+			"number": "082",
+			"title": "smooth criminal",
+			"source": "./art/day-082",
+			"format": "gif",
+			"blendMode": "darken"
 		}
 	]
 }
