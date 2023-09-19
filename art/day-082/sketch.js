@@ -43,6 +43,7 @@ function draw() {
 	} else {
 		cursor(ARROW);
 		targetAlpha = 0;
+		targetWeight = 0;
 	}
 
 	currentWeight = lerp(currentWeight, targetWeight, 0.2);
