@@ -598,7 +598,7 @@
 			"title": "i've been dragged around for days",
 			"source": "./art/day-083",
 			"format": "gif",
-			"blendMode": "darken"
+			"blendMode": "overlay"
 		}
 	]
 }
