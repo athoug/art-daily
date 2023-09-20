@@ -592,6 +592,13 @@
 			"source": "./art/day-082",
 			"format": "gif",
 			"blendMode": "darken"
+		},
+		{
+			"number": "083",
+			"title": "i've been dragged around for days",
+			"source": "./art/day-083",
+			"format": "gif",
+			"blendMode": "darken"
 		}
 	]
 }
