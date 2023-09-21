@@ -7,6 +7,7 @@ At the start of this journey, I plan on using the resource [funprogramming.org ]
 The table below will hold the day, the sketch name, the link to the sketch, link to the article (if it exists)
 | Day | Sketch | Link | Article |
 | ----------- | ----------- | ----------- | ----------- |
+| 084 | Corners | [i am a bit bored of the same example](https://athoug.github.io/art-daily/art/day-084/index.html) |
 | 083 | Boolean Logic | [i've been dragged around for days](https://athoug.github.io/art-daily/art/day-083/index.html) |
 | 082 | Tween | [smooth criminal](https://athoug.github.io/art-daily/art/day-082/index.html) |
 | 081 | Interactivity | [drag me](https://athoug.github.io/art-daily/art/day-081/index.html) |
