@@ -599,6 +599,13 @@
 			"source": "./art/day-083",
 			"format": "gif",
 			"blendMode": "overlay"
+		},
+		{
+			"number": "084",
+			"title": "i am a bit bored of the same example",
+			"source": "./art/day-084",
+			"format": "gif",
+			"blendMode": "color-dodge"
 		}
 	]
 }
