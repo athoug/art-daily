@@ -612,7 +612,7 @@
 			"title": "i am rectangular",
 			"source": "./art/day-085",
 			"format": "gif",
-			"blendMode": "color-dodge"
+			"blendMode": "multiply"
 		}
 	]
 }
