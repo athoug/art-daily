@@ -606,6 +606,13 @@
 			"source": "./art/day-084",
 			"format": "gif",
 			"blendMode": "color-dodge"
+		},
+		{
+			"number": "085",
+			"title": "i am rectangular",
+			"source": "./art/day-085",
+			"format": "gif",
+			"blendMode": "color-dodge"
 		}
 	]
 }
