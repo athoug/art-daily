@@ -613,6 +613,13 @@
 			"source": "./art/day-085",
 			"format": "gif",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "086",
+			"title": "and then there was sound",
+			"source": "./art/day-086",
+			"format": "gif",
+			"blendMode": "multiply"
 		}
 	]
 }
