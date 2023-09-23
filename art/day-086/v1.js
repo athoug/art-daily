@@ -7,12 +7,14 @@ let x = halfW;
 let y = 50;
 let dx = 5;
 let dy = 5;
-let s = 50;
+let r = 0;
 let bounce;
+let ball;
 
 function preload() {
 	soundFormats('mp3', 'ogg');
 	bounce = loadSound('./assets/bounce.mp3');
+	ball = loadImage('./assets/basketball.png');
 }
 
 function setup() {
@@ -20,6 +22,7 @@ function setup() {
 	fill(255, 0, 0);
 	smooth();
 	noStroke();
+	imageMode(CENTER);
 
 	// bounce.start();
 	getAudioContext().resume();
@@ -27,7 +30,10 @@ function setup() {
 
 function draw() {
 	background(255);
-	ellipse(x, y, s, s);
+
+	translate(x, y);
+	rotate(r);
+	image(ball, 0, 0);
 
 	x += dx;
 	y += dy;
@@ -55,6 +61,8 @@ function draw() {
 		dy = -dy;
 		bounce.play();
 	}
+	resetMatrix();
 
+	r += 0.05;
 	// bounce.stop();
 }
