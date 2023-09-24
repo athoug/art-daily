@@ -7,6 +7,7 @@ At the start of this journey, I plan on using the resource [funprogramming.org ]
 The table below will hold the day, the sketch name, the link to the sketch, link to the article (if it exists)
 | Day | Sketch | Link | Article |
 | ----------- | ----------- | ----------- | ----------- |
+| 087 | More Sound | [it's supposed to be rhythmical](https://athoug.github.io/art-daily/art/day-087/index.html) |
 | 086 | Sound | [and thus there was sound](https://athoug.github.io/art-daily/art/day-086/index.html) |
 | 085 | Interactivity with Array | [i am rectangular](https://athoug.github.io/art-daily/art/day-085/index.html) |
 | 084 | Corners | [i am a bit bored of the same example](https://athoug.github.io/art-daily/art/day-084/index.html) |
