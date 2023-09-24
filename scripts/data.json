@@ -620,6 +620,13 @@
 			"source": "./art/day-086",
 			"format": "gif",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "087",
+			"title": "it's supposed to be rhythmical",
+			"source": "./art/day-087",
+			"format": "gif",
+			"blendMode": "overlay"
 		}
 	]
 }
