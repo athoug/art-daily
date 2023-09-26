@@ -627,6 +627,13 @@
 			"source": "./art/day-087",
 			"format": "gif",
 			"blendMode": "overlay"
+		},
+		{
+			"number": "088",
+			"title": "music beats",
+			"source": "./art/day-088",
+			"format": "gif",
+			"blendMode": "multiply"
 		}
 	]
 }
