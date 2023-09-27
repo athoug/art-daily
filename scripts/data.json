@@ -634,6 +634,13 @@
 			"source": "./art/day-088",
 			"format": "gif",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "089",
+			"title": "land of oop",
+			"source": "./art/day-089",
+			"format": "gif",
+			"blendMode": "multiply"
 		}
 	]
 }
