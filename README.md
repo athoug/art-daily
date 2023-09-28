@@ -7,7 +7,8 @@ At the start of this journey, I plan on using the resource [funprogramming.org ]
 The table below will hold the day, the sketch name, the link to the sketch, link to the article (if it exists)
 | Day | Sketch | Link | Article |
 | ----------- | ----------- | ----------- | ----------- |
-| 088 | Object Oriented Programming | [land of oop](https://athoug.github.io/art-daily/art/day-089/index.html) |
+| 090 | Array of Objects | [i'm a bit jittery](https://athoug.github.io/art-daily/art/day-090/index.html) |
+| 089 | Object Oriented Programming | [land of oop](https://athoug.github.io/art-daily/art/day-089/index.html) |
 | 088 | And More Sound | [music beats](https://athoug.github.io/art-daily/art/day-088/index.html) |
 | 087 | More Sound | [it's supposed to be rhythmical](https://athoug.github.io/art-daily/art/day-087/index.html) |
 | 086 | Sound | [and thus there was sound](https://athoug.github.io/art-daily/art/day-086/index.html) |
