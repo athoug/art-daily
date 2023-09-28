@@ -641,6 +641,13 @@
 			"source": "./art/day-089",
 			"format": "gif",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "090",
+			"title": "i'm a bit jittery",
+			"source": "./art/day-090",
+			"format": "gif",
+			"blendMode": "multiply"
 		}
 	]
 }
