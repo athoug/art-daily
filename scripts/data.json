@@ -655,6 +655,13 @@
 			"source": "./art/day-091",
 			"format": "gif",
 			"blendMode": "luminosity"
+		},
+		{
+			"number": "091.2",
+			"title": "ozumaki",
+			"source": "./art/day-091-1",
+			"format": "gif",
+			"blendMode": "luminosity"
 		}
 	]
 }
