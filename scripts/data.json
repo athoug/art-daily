@@ -648,6 +648,13 @@
 			"source": "./art/day-090",
 			"format": "gif",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "091.1",
+			"title": "hypnotic",
+			"source": "./art/day-091",
+			"format": "gif",
+			"blendMode": "luminosity"
 		}
 	]
 }
