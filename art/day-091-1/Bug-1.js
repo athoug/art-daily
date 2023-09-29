@@ -17,8 +17,12 @@ class Bug {
 
 	live() {
 		const sz = map(sin(this.t), -1, 1, 10, 20);
-		ellipse(this.x, this.y, sz, sz);
-
+		// ellipse(this.x, this.y, sz, sz);
+		stroke(255);
+		strokeWeight(sz);
+		line(this.x, this.y, this.x + sz, this.y + sz);
+		console.log(sz);
+		// point(this.x, this.y);
 		this.t += this.speed;
 	}
 }
