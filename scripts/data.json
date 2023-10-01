@@ -662,6 +662,13 @@
 			"source": "./art/day-091-1",
 			"format": "gif",
 			"blendMode": "luminosity"
+		},
+		{
+			"number": "092",
+			"title": "bytastic",
+			"source": "./art/day-092",
+			"format": "png",
+			"blendMode": "luminosity"
 		}
 	]
 }
