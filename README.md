@@ -7,6 +7,7 @@ At the start of this journey, I plan on using the resource [funprogramming.org ]
 The table below will hold the day, the sketch name, the link to the sketch, link to the article (if it exists)
 | Day | Sketch | Link | Article |
 | ----------- | ----------- | ----------- | ----------- |
+| 093 | Animating Bytes | [ani-bits](https://athoug.github.io/art-daily/art/day-093/index.html) |
 | 092 | Load Bytes | [bytastic](https://athoug.github.io/art-daily/art/day-092/index.html) |
 | 091 - extra | Array of Objects playground | [ozumaki](https://athoug.github.io/art-daily/art/day-091-1/index.html) |
 | 091 | Array of Objects 2 | [hypnotic](https://athoug.github.io/art-daily/art/day-091/index.html) |
