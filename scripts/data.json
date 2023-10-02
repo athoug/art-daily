@@ -669,6 +669,13 @@
 			"source": "./art/day-092",
 			"format": "png",
 			"blendMode": "luminosity"
+		},
+		{
+			"number": "093",
+			"title": "ani-bits",
+			"source": "./art/day-093",
+			"format": "gif",
+			"blendMode": "luminosity"
 		}
 	]
 }
