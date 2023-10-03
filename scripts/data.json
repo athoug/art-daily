@@ -676,6 +676,13 @@
 			"source": "./art/day-093",
 			"format": "gif",
 			"blendMode": "luminosity"
+		},
+		{
+			"number": "094",
+			"title": "cheese",
+			"source": "./art/day-094",
+			"format": "gif",
+			"blendMode": "luminosity"
 		}
 	]
 }
