@@ -683,6 +683,13 @@
 			"source": "./art/day-094",
 			"format": "gif",
 			"blendMode": "luminosity"
+		},
+		{
+			"number": "095",
+			"title": "rose curve",
+			"source": "./art/day-095",
+			"format": "gif",
+			"blendMode": "luminosity"
 		}
 	]
 }
