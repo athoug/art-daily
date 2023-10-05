@@ -690,6 +690,13 @@
 			"source": "./art/day-095",
 			"format": "gif",
 			"blendMode": "luminosity"
+		},
+		{
+			"number": "096",
+			"title": "once upon a time",
+			"source": "./art/day-096",
+			"format": "gif",
+			"blendMode": "luminosity"
 		}
 	]
 }
