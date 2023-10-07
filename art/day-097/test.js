@@ -1,7 +1,7 @@
 // testing getting pixels from an image
 
 function setup() {
-	createCanvas(320, 240);
+	createCanvas(400, 400);
 	pixelDensity(1);
 }
 
