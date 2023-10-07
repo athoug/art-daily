@@ -697,6 +697,13 @@
 			"source": "./art/day-096",
 			"format": "gif",
 			"blendMode": "luminosity"
+		},
+		{
+			"number": "097",
+			"title": "abstract by video",
+			"source": "./art/day-097",
+			"format": "gif",
+			"blendMode": "multiply"
 		}
 	]
 }
