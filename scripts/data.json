@@ -704,6 +704,13 @@
 			"source": "./art/day-097",
 			"format": "gif",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "098",
+			"title": "blobs",
+			"source": "./art/day-098",
+			"format": "gif",
+			"blendMode": "multiply"
 		}
 	]
 }
