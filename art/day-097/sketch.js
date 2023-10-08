@@ -11,7 +11,7 @@ function setup() {
 	createCanvas(width, height);
 	frameRate(30);
 	colorMode(HSB, 1);
-	background(255); // this means white because remember teh HSB is set to max value 1
+	background(255);
 	noStroke();
 
 	vid = createVideo('../day-096/assets/movie.mov', loadVideo);
