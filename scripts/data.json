@@ -711,6 +711,13 @@
 			"source": "./art/day-098",
 			"format": "gif",
 			"blendMode": "multiply"
+		},
+		{
+			"number": "099",
+			"title": "back to basics",
+			"source": "./art/day-099",
+			"format": "gif",
+			"blendMode": "multiply"
 		}
 	]
 }
