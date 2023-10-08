@@ -7,6 +7,7 @@ At the start of this journey, I plan on using the resource [funprogramming.org ]
 The table below will hold the day, the sketch name, the link to the sketch, link to the article (if it exists)
 | Day | Sketch | Link | Article |
 | ----------- | ----------- | ----------- | ----------- |
+| 099 | Grids Revisited | [back to basics](https://athoug.github.io/art-daily/art/day-099/index.html) |
 | 098 | Filters | [blobs](https://athoug.github.io/art-daily/art/day-098/index.html) |
 | 097 | Video Pixels | [abstract by video](https://athoug.github.io/art-daily/art/day-097/index.html) |
 | 096 | Video | [once upon a time](https://athoug.github.io/art-daily/art/day-096/index.html) |
