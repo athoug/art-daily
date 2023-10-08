@@ -717,7 +717,7 @@
 			"title": "back to basics",
 			"source": "./art/day-099",
 			"format": "gif",
-			"blendMode": "multiply"
+			"blendMode": "color-dodge"
 		}
 	]
 }
