@@ -17,7 +17,7 @@ function draw() {
 		for (let x = 48; x < width - 43; x += 27) {
 			resetMatrix();
 			translate(x, y);
-			rotate(TWO_PI * noise(x, y, frameCount / 70));
+			rotate(TWO_PI * noise(x / 120, y / 153, frameCount / 70));
 			rect(0, 0, 8, 27);
 		}
 	}
