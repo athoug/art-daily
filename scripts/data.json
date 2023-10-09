@@ -724,7 +724,7 @@
 			"title": "recursiveland",
 			"source": "./art/day-100",
 			"format": "gif",
-			"blendMode": "color-dodge"
+			"blendMode": "luminosity"
 		}
 	]
 }
