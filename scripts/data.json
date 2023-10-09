@@ -718,6 +718,13 @@
 			"source": "./art/day-099",
 			"format": "gif",
 			"blendMode": "color-dodge"
+		},
+		{
+			"number": "100",
+			"title": "recursiveland",
+			"source": "./art/day-100",
+			"format": "gif",
+			"blendMode": "color-dodge"
 		}
 	]
 }
