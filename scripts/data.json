@@ -731,7 +731,7 @@
 			"title": "a day for practice",
 			"source": "./art/day-101",
 			"format": "gif",
-			"blendMode": "luminosity"
+			"blendMode": "difference"
 		}
 	]
 }
