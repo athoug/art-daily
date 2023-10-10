@@ -725,6 +725,13 @@
 			"source": "./art/day-100",
 			"format": "gif",
 			"blendMode": "luminosity"
+		},
+		{
+			"number": "101",
+			"title": "a day for practice",
+			"source": "./art/day-101",
+			"format": "gif",
+			"blendMode": "luminosity"
 		}
 	]
 }
