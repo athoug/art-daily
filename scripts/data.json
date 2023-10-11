@@ -732,6 +732,13 @@
 			"source": "./art/day-101",
 			"format": "gif",
 			"blendMode": "difference"
+		},
+		{
+			"number": "102",
+			"title": "another practice day",
+			"source": "./art/day-102",
+			"format": "gif",
+			"blendMode": "difference"
 		}
 	]
 }
