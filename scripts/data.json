@@ -738,7 +738,7 @@
 			"title": "another practice day",
 			"source": "./art/day-102",
 			"format": "gif",
-			"blendMode": "difference"
+			"blendMode": "color-dodge"
 		}
 	]
 }
