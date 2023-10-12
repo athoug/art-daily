@@ -739,6 +739,13 @@
 			"source": "./art/day-102",
 			"format": "gif",
 			"blendMode": "color-dodge"
+		},
+		{
+			"number": "103",
+			"title": "layers make cool effects",
+			"source": "./art/day-103",
+			"format": "gif",
+			"blendMode": "color-dodge"
 		}
 	]
 }
