@@ -746,6 +746,13 @@
 			"source": "./art/day-103",
 			"format": "gif",
 			"blendMode": "color-dodge"
+		},
+		{
+			"number": "104",
+			"title": "a little glow up",
+			"source": "./art/day-104",
+			"format": "gif",
+			"blendMode": "color-dodge"
 		}
 	]
 }
