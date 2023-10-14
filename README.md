@@ -7,7 +7,9 @@ At the start of this journey, I plan on using the resource [funprogramming.org ]
 The table below will hold the day, the sketch name, the link to the sketch, link to the article (if it exists)
 | Day | Sketch | Link | Article |
 | ----------- | ----------- | ----------- | ----------- |
-| 102 | More ractice | [another practice day](https://athoug.github.io/art-daily/art/day-102/index.html) |
+| 104 | More More Practice | [a little glow up](https://athoug.github.io/art-daily/art/day-104/index.html) |
+| 103 | Layers | [layers make cool effects](https://athoug.github.io/art-daily/art/day-103/index.html) |
+| 102 | More Practice | [another practice day](https://athoug.github.io/art-daily/art/day-102/index.html) |
 | 101 | Practice | [a day for practice](https://athoug.github.io/art-daily/art/day-101/index.html) |
 | 100 | Recursion | [recursiveland](https://athoug.github.io/art-daily/art/day-100/index.html) |
 | 099 | Grids Revisited | [back to basics](https://athoug.github.io/art-daily/art/day-099/index.html) |
