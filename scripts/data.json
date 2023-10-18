@@ -753,6 +753,13 @@
 			"source": "./art/day-104",
 			"format": "gif",
 			"blendMode": "color-dodge"
+		},
+		{
+			"number": "105",
+			"title": "extra glow up",
+			"source": "./art/day-105",
+			"format": "gif",
+			"blendMode": "color-dodge"
 		}
 	]
 }
