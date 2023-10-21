@@ -760,6 +760,13 @@
 			"source": "./art/day-105",
 			"format": "gif",
 			"blendMode": "color-dodge"
+		},
+		{
+			"number": "106",
+			"title": "air draw",
+			"source": "./art/day-106",
+			"format": "gif",
+			"blendMode": "color-dodge"
 		}
 	]
 }
