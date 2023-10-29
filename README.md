@@ -7,6 +7,7 @@ At the start of this journey, I plan on using the resource [funprogramming.org ]
 The table below will hold the day, the sketch name, the link to the sketch, link to the article (if it exists)
 | Day | Sketch | Link | Article |
 | ----------- | ----------- | ----------- | ----------- |
+| 107 | Camera Pixels | [mirror pixels](https://athoug.github.io/art-daily/art/day-107/index.html) |
 | 106 | Camera Fun | [air draw](https://athoug.github.io/art-daily/art/day-106/index.html) |
 | 105 | Maybe More Practice | [extra glow up](https://athoug.github.io/art-daily/art/day-105/index.html) |
 | 104 | More More Practice | [a little glow up](https://athoug.github.io/art-daily/art/day-104/index.html) |
