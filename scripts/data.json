@@ -767,6 +767,13 @@
 			"source": "./art/day-106",
 			"format": "gif",
 			"blendMode": "color-dodge"
+		},
+		{
+			"number": "107",
+			"title": "mirror pixels",
+			"source": "./art/day-107",
+			"format": "gif",
+			"blendMode": "color-dodge"
 		}
 	]
 }
