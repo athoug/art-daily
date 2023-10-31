@@ -774,6 +774,13 @@
 			"source": "./art/day-107",
 			"format": "gif",
 			"blendMode": "color-dodge"
+		},
+		{
+			"number": "108",
+			"title": "moving galaxy",
+			"source": "./art/day-108",
+			"format": "gif",
+			"blendMode": "color-dodge"
 		}
 	]
 }
