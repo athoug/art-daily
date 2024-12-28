@@ -1,0 +1,237 @@
+@media (max-width: 1412px) {
+	.card-container {
+		width: 17.5em;
+		height: 21em;
+	}
+}
+
+@media (max-width: 1370px) {
+	.card-wrapper {
+		gap: 2em;
+	}
+}
+
+@media (max-width: 1336px) {
+	.card-container {
+		width: 15.5em;
+		height: 19em;
+	}
+
+	.card-wrapper {
+		gap: 1em;
+	}
+}
+
+@media (max-width: 1251px) {
+	.card-container {
+		width: 14.5em;
+		height: 18em;
+	}
+
+	.card-wrapper {
+		gap: 3em;
+	}
+
+	.title {
+		font-size: 4.6em;
+	}
+}
+
+@media (max-width: 1130px) {
+	.card-container {
+		width: 14.5em;
+		height: 18em;
+	}
+
+	.card-wrapper {
+		gap: 2em;
+	}
+}
+
+@media (max-width: 1113px) {
+	.card-container {
+		width: 14.5em;
+		height: 18em;
+	}
+
+	.card-wrapper {
+		gap: 1.5em;
+	}
+}
+
+@media (max-width: 1104px) {
+	.card-container {
+		width: 14.5em;
+		height: 18em;
+	}
+
+	.card-wrapper {
+		gap: 1em;
+	}
+}
+
+@media (max-width: 1096px) {
+	.card-container {
+		width: 12.75em;
+		height: 16.25em;
+	}
+
+	.card-wrapper {
+		gap: 1.5em;
+	}
+}
+
+@media (max-width: 1044px) {
+	.card-wrapper {
+		gap: 1em;
+	}
+}
+
+@media (max-width: 1035px) {
+	.card-container {
+		width: 10.75em;
+		height: 14.25em;
+	}
+
+	.card-wrapper {
+		gap: 1.5em;
+	}
+}
+
+@media (max-width: 1000px) {
+	body {
+		flex-direction: column;
+		overflow-y: scroll;
+	}
+
+	#theme-switch {
+		width: 80px;
+	}
+
+	.header {
+		margin: 2rem;
+	}
+
+	.card-container {
+		width: 14.75em;
+		height: 18.25em;
+	}
+
+	.card-wrapper {
+		gap: 4em;
+		height: 100%;
+		overflow-y: none;
+	}
+}
+
+@media (max-width: 900px) {
+	.card-container {
+		width: 12.75em;
+		height: 16.25em;
+	}
+}
+
+@media (max-width: 800px) {
+	.card-wrapper {
+		gap: 3em;
+	}
+}
+
+@media (max-width: 760px) {
+	.card-wrapper {
+		gap: 2em;
+	}
+}
+
+@media (max-width: 730px) {
+	.card-container {
+		width: 17.75em;
+		height: 21.25em;
+	}
+
+	.card-wrapper {
+		gap: 2.5em;
+	}
+}
+
+@media (max-width: 660px) {
+	.card-container {
+		width: 16.75em;
+		height: 20.25em;
+	}
+
+	.card-wrapper {
+		gap: 2em;
+	}
+}
+
+@media (max-width: 620px) {
+	.card-container {
+		width: 14.75em;
+		height: 18.25em;
+	}
+
+	.card-wrapper {
+		gap: 2em;
+	}
+}
+
+@media (max-width: 550px) {
+	.card-container {
+		width: 12.75em;
+		height: 16.25em;
+	}
+
+	.card-wrapper {
+		gap: 1.5em;
+	}
+}
+
+@media (max-width: 470px) {
+	.title {
+		font-size: 5.6em;
+	}
+
+	.card-container {
+		width: 18.75em;
+		height: 22.25em;
+	}
+
+	.card-wrapper {
+		gap: 2em;
+		margin: 4em;
+	}
+}
+
+@media (max-width: 410px) {
+	.title {
+		font-size: 4.6em;
+	}
+
+	.card-wrapper {
+		gap: 2em;
+		margin: 3.5em;
+	}
+}
+
+@media (max-width: 380px) {
+	.title {
+		font-size: 4.6em;
+	}
+
+	.card-wrapper {
+		gap: 2em;
+		margin: 2em;
+	}
+}
+
+@media (max-width: 350px) {
+	.title {
+		font-size: 3.6em;
+	}
+
+	.card-wrapper {
+		gap: 2em;
+		margin: 1.5em;
+	}
+}

@@ -21,6 +21,7 @@
 
 html {
 	color-scheme: dark light;
+	scrollbar-width: none;
 }
 
 body {
@@ -32,6 +33,11 @@ body {
 	color: var(--main-text-color);
 	font-size: 16px;
 	font-family: 'PT Sans', Calibri, Tahoma, sans-serif;
+	overflow: hidden;
+	/* test grid */
+	display: flex;
+	/* grid-template-columns: repeat(7, 1fr); */
+	/* grid-template-rows: repeat(7, 1fr); */
 }
 
 a {
@@ -39,10 +45,11 @@ a {
 }
 
 .header {
-	margin: 3rem;
+	margin: 17rem 2rem 0;
 }
 
 .title {
+	transition: all 0.3s;
 	max-width: 450px;
 	color: var(--main-text-color);
 	font-size: 6.6em;
@@ -51,7 +58,7 @@ a {
 
 .highlight-text {
 	background-color: var(--main-red);
-	padding: 0 0.25em;
+	padding: 0 0.15em;
 	color: var(--main-body-color);
 }
 
@@ -62,7 +69,7 @@ a {
 }
 
 .sub-heading-text {
-	max-width: 350px;
+	max-width: 360px;
 }
 
 .horizontal-line {
@@ -74,15 +81,26 @@ a {
 }
 
 .card-wrapper {
+	transition: all 0.3s;
 	width: 100%;
-	height: 100%;
+	height: 100vh;
+	overflow-y: scroll;
 	display: flex;
 	flex-wrap: wrap;
+	margin: 3em;
+	gap: 4em;
+	-ms-overflow-style: none; /* Internet Explorer 10+ */
+	scrollbar-width: none; /* Firefox */
+}
+
+.card-wrapper::-webkit-scrollbar {
+	display: none; /* Safari and Chrome */
 }
 
 #theme-switch {
-	margin: 1rem 3rem;
-	width: 80px;
+	align-self: flex-start;
+	margin: 1.5rem 3rem;
+	width: 150px;
 	padding: 0;
 	border: none;
 	background-color: transparent;
