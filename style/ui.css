@@ -48,3 +48,40 @@
 	border-radius: 5px;
 	mix-blend-mode: multiply;
 }
+
+/* ----- circle scroll ----- */
+.circle-container {
+	transition: all 0.3s;
+	position: absolute;
+	width: 33.25em;
+	height: 33.25em;
+	background-color: var(--highlight);
+	border-radius: 50%;
+	top: 23%;
+	left: -22%;
+	transform: scale(0.9);
+	display: flex;
+	align-items: center;
+	justify-items: center;
+}
+
+.top-circle {
+	transition: all 0.3s;
+	width: 98%;
+	height: 98%;
+	border-radius: 50%;
+	background-color: var(--main-body-color);
+}
+
+.red-stripe {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	border-radius: 50%;
+	border: 10px solid var(--main-red);
+	/* clip-path: polygon(50% 25%, 100% 25%, 100% 75%, 50% 75%); */
+	clip-path: polygon(0 44%, 100% 63%, 100% 27%);
+	/* clip-path: polygon(0 46%, 100% 57%, 100% 34%); */
+	clip-path: polygon(100% 31%, 100% 71%, 0% 60%, 0% 48%);
+	clip-path: polygon(100% 34%, 100% 73%, 0% 73%, 0% 41%);
+}

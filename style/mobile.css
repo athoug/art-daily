@@ -3,6 +3,10 @@
 		width: 17.5em;
 		height: 21em;
 	}
+
+	.circle-container {
+		transform: scale(0.75);
+	}
 }
 
 @media (max-width: 1370px) {
@@ -35,6 +39,9 @@
 	.title {
 		font-size: 4.6em;
 	}
+	.circle-container {
+		transform: scale(0.65);
+	}
 }
 
 @media (max-width: 1130px) {
@@ -45,6 +52,11 @@
 
 	.card-wrapper {
 		gap: 2em;
+	}
+
+	.circle-container {
+		transform: scale(0.6);
+		left: -25%;
 	}
 }
 
@@ -110,6 +122,10 @@
 
 	.header {
 		margin: 2rem;
+	}
+
+	.circle-container {
+		display: none;
 	}
 
 	.card-container {

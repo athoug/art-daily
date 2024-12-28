@@ -1,5 +1,7 @@
 const body = document.body;
 const themeSwitcher = document.getElementById('theme-switch');
+const circle = document.querySelector('.red-stripe');
+const cardWrapper = document.querySelector('.card-wrapper');
 
 const checkBodyTheme = () => {
 	if (body.classList.contains('light-mode')) {
@@ -37,3 +39,15 @@ const handelThemeSwitch = (e) => {
 };
 
 themeSwitcher.addEventListener('click', handelThemeSwitch);
+
+cardWrapper.addEventListener('scroll', () => {
+	// Get current scrollTop
+	const st = cardWrapper.scrollTop;
+
+	// Decide how fast it should rotate
+	// For example, rotate 1 deg per px scrolled
+	const rotation = st;
+
+	// Apply rotation
+	circle.style.transform = `rotate(${rotation}deg)`;
+});
