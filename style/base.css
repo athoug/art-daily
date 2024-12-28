@@ -3,6 +3,14 @@
 	--main-body-color: #222222;
 	--main-text-color: #ffffff;
 	--main-red: #bb3232;
+	--highlight: #1c1c1c;
+}
+
+.light-mode {
+	--main-body-color: #ffffff;
+	--main-text-color: #222222;
+	--main-red: #bb3232;
+	--highlight: #eeeeee;
 }
 
 * {
@@ -11,7 +19,12 @@
 	padding: 0;
 }
 
+html {
+	color-scheme: dark light;
+}
+
 body {
+	transition: all 0.3s;
 	max-width: 2015px;
 	min-height: 100vh;
 	margin: auto;
@@ -65,4 +78,34 @@ a {
 	height: 100%;
 	display: flex;
 	flex-wrap: wrap;
+}
+
+#theme-switch {
+	margin: 1rem 3rem;
+	width: 80px;
+	padding: 0;
+	border: none;
+	background-color: transparent;
+	display: flex;
+	justify-content: space-between;
+	align-items: baseline;
+}
+
+#theme-switch svg {
+	transition: 0.3s all;
+	stroke: #444;
+}
+
+body.light-mode #theme-switch svg {
+	stroke: #ccc;
+}
+
+body.light-mode #theme-switch svg:hover,
+#theme-switch svg:hover {
+	stroke: var(--highlight);
+}
+
+body.light-mode #theme-switch svg.active,
+#theme-switch svg.active {
+	stroke: var(--main-red);
 }
