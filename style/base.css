@@ -80,6 +80,13 @@ a {
 	margin-right: 1em;
 }
 
+.socials {
+	display: flex;
+	justify-content: space-evenly;
+	margin: 2em auto 0;
+	max-width: 20em;
+}
+
 .card-wrapper {
 	transition: all 0.3s;
 	width: 100%;
@@ -109,13 +116,26 @@ a {
 	align-items: baseline;
 }
 
-#theme-switch svg {
+#theme-switch svg,
+.socials svg {
 	transition: 0.3s all;
 	stroke: #444;
 }
 
-body.light-mode #theme-switch svg {
+body.light-mode #theme-switch svg,
+body.light-mode .socials svg {
 	stroke: #ccc;
+}
+
+.socials svg.fill {
+	transition: 0.3s all;
+	stroke: none;
+	fill: #444;
+}
+
+body.light-mode .socials svg.fill {
+	stroke: none;
+	fill: #ccc;
 }
 
 body.light-mode #theme-switch svg:hover,
@@ -126,4 +146,33 @@ body.light-mode #theme-switch svg:hover,
 body.light-mode #theme-switch svg.active,
 #theme-switch svg.active {
 	stroke: var(--main-red);
+}
+
+/* ----- social icons ----- */
+.socials #youtube:hover {
+	transition: 0.3s all;
+	stroke: none;
+	fill: #ff0033;
+}
+
+.socials #instagram:hover {
+	transition: 0.3s all;
+	stroke: none;
+	fill: #f56040;
+}
+
+.socials #twitter:hover {
+	transition: 0.3s all;
+	stroke: none;
+	fill: #1da1f2;
+}
+
+.socials #twitch:hover {
+	transition: 0.3s all;
+	stroke: #6441a5;
+}
+
+.socials #github:hover {
+	transition: 0.3s all;
+	stroke: #2b3137;
 }
