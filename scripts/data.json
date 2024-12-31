@@ -892,6 +892,14 @@
       "format": "gif",
       "blendMode": "color-dodge",
       "year": 2023
+    },
+    {
+      "number": "109",
+      "title": "scattered beginnings",
+      "source": "./art/day-109",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2024
     }
   ]
 }
