@@ -141,6 +141,7 @@ const newEntry = {
 	source: `./art/${newFolderName}`,
 	format: 'gif',
 	blendMode: 'multiply',
+	year: new Date().getFullYear(),
 };
 
 data.art.push(newEntry);
