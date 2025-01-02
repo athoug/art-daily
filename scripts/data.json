@@ -1,913 +1,921 @@
 {
-	"projectName": "art daily",
-	"developer": "athoug",
-	"startYear": 2023,
-	"startDate": "30 June 2023",
-	"status": "in progress",
-	"art": [
-		{
-			"number": "001",
-			"title": "points, points, and more points",
-			"source": "./art/day-001",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "002",
-			"title": "random acts of lines",
-			"source": "./art/day-002",
-			"format": "gif",
-			"blendMode": "darken",
-			"year": 2023
-		},
-		{
-			"number": "003",
-			"title": "different shades of light",
-			"source": "./art/day-003",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "004",
-			"title": "line masterpiece",
-			"source": "./art/day-004",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "005",
-			"title": "animated line",
-			"source": "./art/day-005",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "006",
-			"title": "horizontal... or is it vertical",
-			"source": "./art/day-006",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "007",
-			"title": "shades of pink",
-			"source": "./art/day-007",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "008",
-			"title": "the case of the intersecting circles",
-			"source": "./art/day-008",
-			"format": "gif",
-			"blendMode": "luminosity",
-			"year": 2023
-		},
-		{
-			"number": "009",
-			"title": "a circle race",
-			"source": "./art/day-009",
-			"format": "gif",
-			"blendMode": "color-dodge",
-			"year": 2023
-		},
-		{
-			"number": "010",
-			"title": "condition? I think so",
-			"source": "./art/day-010",
-			"format": "gif",
-			"blendMode": "luminosity",
-			"year": 2023
-		},
-		{
-			"number": "011",
-			"title": "circle me this",
-			"source": "./art/day-011",
-			"format": "gif",
-			"blendMode": "luminosity",
-			"year": 2023
-		},
-		{
-			"number": "012",
-			"title": "circle, it's not my day",
-			"source": "./art/day-012",
-			"format": "gif",
-			"blendMode": "lighten",
-			"year": 2023
-		},
-		{
-			"number": "013",
-			"title": "bouncing",
-			"source": "./art/day-013",
-			"format": "gif",
-			"blendMode": "color-dodge",
-			"year": 2023
-		},
-		{
-			"number": "014",
-			"title": "jitters",
-			"source": "./art/day-014",
-			"format": "gif",
-			"blendMode": "luminosity",
-			"year": 2023
-		},
-		{
-			"number": "015",
-			"title": "sometimes yes, sometimes no",
-			"source": "./art/day-015",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "016",
-			"title": "draw me something",
-			"source": "./art/day-016",
-			"format": "gif",
-			"blendMode": "luminosity",
-			"year": 2023
-		},
-		{
-			"number": "017",
-			"title": "starry night",
-			"source": "./art/day-017",
-			"format": "gif",
-			"blendMode": "luminosity",
-			"year": 2023
-		},
-		{
-			"number": "018",
-			"title": "whirlwind",
-			"source": "./art/day-018",
-			"format": "gif",
-			"blendMode": "color-dodge",
-			"year": 2023
-		},
-		{
-			"number": "019",
-			"title": "psychedelic",
-			"source": "./art/day-019",
-			"format": "gif",
-			"blendMode": "luminosity",
-			"year": 2023
-		},
-		{
-			"number": "020",
-			"title": "type, type, type",
-			"source": "./art/day-020",
-			"format": "gif",
-			"blendMode": "luminosity",
-			"year": 2023
-		},
-		{
-			"number": "021",
-			"title": "patterns",
-			"source": "./art/day-021",
-			"format": "gif",
-			"blendMode": "color-dodge",
-			"year": 2023
-		},
-		{
-			"number": "022",
-			"title": "circles that are patterns",
-			"source": "./art/day-022",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "023",
-			"title": "can you translate?",
-			"source": "./art/day-023",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "024",
-			"title": "follow me",
-			"source": "./art/day-024",
-			"format": "gif",
-			"blendMode": "luminosity",
-			"year": 2023
-		},
-		{
-			"number": "025",
-			"title": "i am the center. no, i am!",
-			"source": "./art/day-025",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "026",
-			"title": "astrict *",
-			"source": "./art/day-026",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "027",
-			"title": "some more rotations",
-			"source": "./art/day-027",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "028",
-			"title": "size me up",
-			"source": "./art/day-028",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "029",
-			"title": "it's the grid",
-			"source": "./art/day-029",
-			"format": "gif",
-			"blendMode": "color-dodge",
-			"year": 2023
-		},
-		{
-			"number": "030",
-			"title": "waaaavvvvveeesss",
-			"source": "./art/day-030",
-			"format": "gif",
-			"blendMode": "luminosity",
-			"year": 2023
-		},
-		{
-			"number": "031",
-			"title": "noise",
-			"source": "./art/day-031",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "032",
-			"title": "eyeing you noise",
-			"source": "./art/day-032",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "033",
-			"title": "the wave of noise",
-			"source": "./art/day-033",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "034",
-			"title": "three noises",
-			"source": "./art/day-034",
-			"format": "gif",
-			"blendMode": "darken",
-			"year": 2023
-		},
-		{
-			"number": "035",
-			"title": "sine wave",
-			"source": "./art/day-035",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "036",
-			"title": "smooth ball",
-			"source": "./art/day-036",
-			"format": "gif",
-			"blendMode": "luminosity",
-			"year": 2023
-		},
-		{
-			"number": "037",
-			"title": "moving wave",
-			"source": "./art/day-037",
-			"format": "gif",
-			"blendMode": "luminosity",
-			"year": 2023
-		},
-		{
-			"number": "038",
-			"title": "a mapped sine",
-			"source": "./art/day-038",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "039",
-			"title": "a sine surprise",
-			"source": "./art/day-039",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "040",
-			"title": "i don't even know",
-			"source": "./art/day-040",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "041",
-			"title": "image me this",
-			"source": "./art/day-041",
-			"format": "gif",
-			"blendMode": "exclusion",
-			"year": 2023
-		},
-		{
-			"number": "042",
-			"title": "do you copy?",
-			"source": "./art/day-042",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "043",
-			"title": "beeeeeeees",
-			"source": "./art/day-043",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "044",
-			"title": "i like to move it, move it",
-			"source": "./art/day-044",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "045",
-			"title": "can you stand still?",
-			"source": "./art/day-045",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "046",
-			"title": "patterns",
-			"source": "./art/day-046",
-			"format": "gif",
-			"blendMode": "luminosity",
-			"year": 2023
-		},
-		{
-			"number": "047",
-			"title": "quote me",
-			"source": "./art/day-047",
-			"format": "gif",
-			"blendMode": "unset",
-			"year": 2023
-		},
-		{
-			"number": "048",
-			"title": "just arrays",
-			"source": "./art/day-048",
-			"format": "png",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "049",
-			"title": "2d arrays are trippy",
-			"source": "./art/day-049",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "050",
-			"title": "typography posters",
-			"source": "./art/day-050",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "051",
-			"title": "star felid",
-			"source": "./art/day-051",
-			"format": "gif",
-			"blendMode": "lighten",
-			"year": 2023
-		},
-		{
-			"number": "052",
-			"title": "star ship",
-			"source": "./art/day-052",
-			"format": "gif",
-			"blendMode": "lighten",
-			"year": 2023
-		},
-		{
-			"number": "053",
-			"title": "are you touching me?",
-			"source": "./art/day-053",
-			"format": "gif",
-			"blendMode": "lighten",
-			"year": 2023
-		},
-		{
-			"number": "054",
-			"title": "color me dots",
-			"source": "./art/day-054",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "055",
-			"title": "bouncing, bouncing, everywhere",
-			"source": "./art/day-055",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "056",
-			"title": "3d vision",
-			"source": "./art/day-056",
-			"format": "gif",
-			"blendMode": "color-dodge",
-			"year": 2023
-		},
-		{
-			"number": "057",
-			"title": "larpping",
-			"source": "./art/day-057",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "058",
-			"title": "are we close?",
-			"source": "./art/day-058",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "059",
-			"title": "rainbow seeds",
-			"source": "./art/day-059",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "060",
-			"title": "going in circles",
-			"source": "./art/day-060",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "061",
-			"title": "circles?",
-			"source": "./art/day-061",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "062",
-			"title": "too many motion",
-			"source": "./art/day-062",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "063",
-			"title": "veins",
-			"source": "./art/day-063",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "064",
-			"title": "rythmed pixels",
-			"source": "./art/day-064",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "065",
-			"title": "circlebeats",
-			"source": "./art/day-065",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "066",
-			"title": "pixelated grid",
-			"source": "./art/day-066",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "067",
-			"title": "cool bezier",
-			"source": "./art/day-067",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "068",
-			"title": "wild curves",
-			"source": "./art/day-068",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "069",
-			"title": "points a whirlwind",
-			"source": "./art/day-069",
-			"format": "gif",
-			"blendMode": "lighten",
-			"year": 2023
-		},
-		{
-			"number": "070",
-			"title": "star burst",
-			"source": "./art/day-070",
-			"format": "gif",
-			"blendMode": "lighten",
-			"year": 2023
-		},
-		{
-			"number": "071.0",
-			"title": "3d plant",
-			"source": "./art/day-071",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "071.1",
-			"title": "ellipse rotating in 3d",
-			"source": "./art/day-071-extra",
-			"format": "gif",
-			"blendMode": "lighten",
-			"year": 2023
-		},
-		{
-			"number": "071.2",
-			"title": "too many 3d",
-			"source": "./art/day-071-extra-2",
-			"format": "gif",
-			"blendMode": "lighten",
-			"year": 2023
-		},
-		{
-			"number": "072",
-			"title": "this was supposed to be about colors",
-			"source": "./art/day-072",
-			"format": "gif",
-			"blendMode": "soft-light",
-			"year": 2023
-		},
-		{
-			"number": "073",
-			"title": "i see grad",
-			"source": "./art/day-073",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "074",
-			"title": "revisionist history",
-			"source": "./art/day-074",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "075",
-			"title": "press me",
-			"source": "./art/day-075",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "076",
-			"title": "broken code",
-			"source": "./art/day-076",
-			"format": "gif",
-			"blendMode": "color-dodge",
-			"year": 2023
-		},
-		{
-			"number": "077",
-			"title": "what time is it?",
-			"source": "./art/day-077",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "078",
-			"title": "noise?",
-			"source": "./art/day-078",
-			"format": "gif",
-			"blendMode": "color-dodge",
-			"year": 2023
-		},
-		{
-			"number": "079",
-			"title": "let's filter up",
-			"source": "./art/day-079",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "080",
-			"title": "let's make a movie",
-			"source": "./art/day-080",
-			"format": "gif",
-			"blendMode": "luminosity",
-			"year": 2023
-		},
-		{
-			"number": "081",
-			"title": "drag me",
-			"source": "./art/day-081",
-			"format": "gif",
-			"blendMode": "darken",
-			"year": 2023
-		},
-		{
-			"number": "082",
-			"title": "smooth criminal",
-			"source": "./art/day-082",
-			"format": "gif",
-			"blendMode": "darken",
-			"year": 2023
-		},
-		{
-			"number": "083",
-			"title": "i've been dragged around for days",
-			"source": "./art/day-083",
-			"format": "gif",
-			"blendMode": "overlay",
-			"year": 2023
-		},
-		{
-			"number": "084",
-			"title": "i am a bit bored of the same example",
-			"source": "./art/day-084",
-			"format": "gif",
-			"blendMode": "color-dodge",
-			"year": 2023
-		},
-		{
-			"number": "085",
-			"title": "i am rectangular",
-			"source": "./art/day-085",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "086",
-			"title": "and then there was sound",
-			"source": "./art/day-086",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "087",
-			"title": "it's supposed to be rhythmical",
-			"source": "./art/day-087",
-			"format": "gif",
-			"blendMode": "overlay",
-			"year": 2023
-		},
-		{
-			"number": "088",
-			"title": "music beats",
-			"source": "./art/day-088",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "089",
-			"title": "land of oop",
-			"source": "./art/day-089",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "090",
-			"title": "i'm a bit jittery",
-			"source": "./art/day-090",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "091.1",
-			"title": "hypnotic",
-			"source": "./art/day-091",
-			"format": "gif",
-			"blendMode": "luminosity",
-			"year": 2023
-		},
-		{
-			"number": "091.2",
-			"title": "ozumaki",
-			"source": "./art/day-091-1",
-			"format": "gif",
-			"blendMode": "luminosity",
-			"year": 2023
-		},
-		{
-			"number": "092",
-			"title": "bytastic",
-			"source": "./art/day-092",
-			"format": "png",
-			"blendMode": "luminosity",
-			"year": 2023
-		},
-		{
-			"number": "093",
-			"title": "ani-bits",
-			"source": "./art/day-093",
-			"format": "gif",
-			"blendMode": "luminosity",
-			"year": 2023
-		},
-		{
-			"number": "094",
-			"title": "cheese",
-			"source": "./art/day-094",
-			"format": "gif",
-			"blendMode": "luminosity",
-			"year": 2023
-		},
-		{
-			"number": "095",
-			"title": "rose curve",
-			"source": "./art/day-095",
-			"format": "gif",
-			"blendMode": "luminosity",
-			"year": 2023
-		},
-		{
-			"number": "096",
-			"title": "once upon a time",
-			"source": "./art/day-096",
-			"format": "gif",
-			"blendMode": "luminosity",
-			"year": 2023
-		},
-		{
-			"number": "097",
-			"title": "abstract by video",
-			"source": "./art/day-097",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "098",
-			"title": "blobs",
-			"source": "./art/day-098",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2023
-		},
-		{
-			"number": "099",
-			"title": "back to basics",
-			"source": "./art/day-099",
-			"format": "gif",
-			"blendMode": "color-dodge",
-			"year": 2023
-		},
-		{
-			"number": "100",
-			"title": "recursiveland",
-			"source": "./art/day-100",
-			"format": "gif",
-			"blendMode": "luminosity",
-			"year": 2023
-		},
-		{
-			"number": "101",
-			"title": "a day for practice",
-			"source": "./art/day-101",
-			"format": "gif",
-			"blendMode": "difference",
-			"year": 2023
-		},
-		{
-			"number": "102",
-			"title": "another practice day",
-			"source": "./art/day-102",
-			"format": "gif",
-			"blendMode": "color-dodge",
-			"year": 2023
-		},
-		{
-			"number": "103",
-			"title": "layers make cool effects",
-			"source": "./art/day-103",
-			"format": "gif",
-			"blendMode": "color-dodge",
-			"year": 2023
-		},
-		{
-			"number": "104",
-			"title": "a little glow up",
-			"source": "./art/day-104",
-			"format": "gif",
-			"blendMode": "color-dodge",
-			"year": 2023
-		},
-		{
-			"number": "105",
-			"title": "extra glow up",
-			"source": "./art/day-105",
-			"format": "gif",
-			"blendMode": "color-dodge",
-			"year": 2023
-		},
-		{
-			"number": "106",
-			"title": "air draw",
-			"source": "./art/day-106",
-			"format": "gif",
-			"blendMode": "color-dodge",
-			"year": 2023
-		},
-		{
-			"number": "107",
-			"title": "mirror pixels",
-			"source": "./art/day-107",
-			"format": "gif",
-			"blendMode": "color-dodge",
-			"year": 2023
-		},
-		{
-			"number": "108",
-			"title": "moving galaxy",
-			"source": "./art/day-108",
-			"format": "gif",
-			"blendMode": "color-dodge",
-			"year": 2023
-		},
-		{
-			"number": "109",
-			"title": "spiraling",
-			"source": "./art/day-109",
-			"format": "gif",
-			"blendMode": "multiply",
-			"year": 2024
-		},
-		{
-			"number": "110",
-			"title": "beginnings",
-			"source": "./art/day-110",
-			"format": "gif",
-			"blendMode": "color-dodge",
-			"year": 2025
-		}
-	]
+  "projectName": "art daily",
+  "developer": "athoug",
+  "startYear": 2023,
+  "startDate": "30 June 2023",
+  "status": "in progress",
+  "art": [
+    {
+      "number": "001",
+      "title": "points, points, and more points",
+      "source": "./art/day-001",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "002",
+      "title": "random acts of lines",
+      "source": "./art/day-002",
+      "format": "gif",
+      "blendMode": "darken",
+      "year": 2023
+    },
+    {
+      "number": "003",
+      "title": "different shades of light",
+      "source": "./art/day-003",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "004",
+      "title": "line masterpiece",
+      "source": "./art/day-004",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "005",
+      "title": "animated line",
+      "source": "./art/day-005",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "006",
+      "title": "horizontal... or is it vertical",
+      "source": "./art/day-006",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "007",
+      "title": "shades of pink",
+      "source": "./art/day-007",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "008",
+      "title": "the case of the intersecting circles",
+      "source": "./art/day-008",
+      "format": "gif",
+      "blendMode": "luminosity",
+      "year": 2023
+    },
+    {
+      "number": "009",
+      "title": "a circle race",
+      "source": "./art/day-009",
+      "format": "gif",
+      "blendMode": "color-dodge",
+      "year": 2023
+    },
+    {
+      "number": "010",
+      "title": "condition? I think so",
+      "source": "./art/day-010",
+      "format": "gif",
+      "blendMode": "luminosity",
+      "year": 2023
+    },
+    {
+      "number": "011",
+      "title": "circle me this",
+      "source": "./art/day-011",
+      "format": "gif",
+      "blendMode": "luminosity",
+      "year": 2023
+    },
+    {
+      "number": "012",
+      "title": "circle, it's not my day",
+      "source": "./art/day-012",
+      "format": "gif",
+      "blendMode": "lighten",
+      "year": 2023
+    },
+    {
+      "number": "013",
+      "title": "bouncing",
+      "source": "./art/day-013",
+      "format": "gif",
+      "blendMode": "color-dodge",
+      "year": 2023
+    },
+    {
+      "number": "014",
+      "title": "jitters",
+      "source": "./art/day-014",
+      "format": "gif",
+      "blendMode": "luminosity",
+      "year": 2023
+    },
+    {
+      "number": "015",
+      "title": "sometimes yes, sometimes no",
+      "source": "./art/day-015",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "016",
+      "title": "draw me something",
+      "source": "./art/day-016",
+      "format": "gif",
+      "blendMode": "luminosity",
+      "year": 2023
+    },
+    {
+      "number": "017",
+      "title": "starry night",
+      "source": "./art/day-017",
+      "format": "gif",
+      "blendMode": "luminosity",
+      "year": 2023
+    },
+    {
+      "number": "018",
+      "title": "whirlwind",
+      "source": "./art/day-018",
+      "format": "gif",
+      "blendMode": "color-dodge",
+      "year": 2023
+    },
+    {
+      "number": "019",
+      "title": "psychedelic",
+      "source": "./art/day-019",
+      "format": "gif",
+      "blendMode": "luminosity",
+      "year": 2023
+    },
+    {
+      "number": "020",
+      "title": "type, type, type",
+      "source": "./art/day-020",
+      "format": "gif",
+      "blendMode": "luminosity",
+      "year": 2023
+    },
+    {
+      "number": "021",
+      "title": "patterns",
+      "source": "./art/day-021",
+      "format": "gif",
+      "blendMode": "color-dodge",
+      "year": 2023
+    },
+    {
+      "number": "022",
+      "title": "circles that are patterns",
+      "source": "./art/day-022",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "023",
+      "title": "can you translate?",
+      "source": "./art/day-023",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "024",
+      "title": "follow me",
+      "source": "./art/day-024",
+      "format": "gif",
+      "blendMode": "luminosity",
+      "year": 2023
+    },
+    {
+      "number": "025",
+      "title": "i am the center. no, i am!",
+      "source": "./art/day-025",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "026",
+      "title": "astrict *",
+      "source": "./art/day-026",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "027",
+      "title": "some more rotations",
+      "source": "./art/day-027",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "028",
+      "title": "size me up",
+      "source": "./art/day-028",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "029",
+      "title": "it's the grid",
+      "source": "./art/day-029",
+      "format": "gif",
+      "blendMode": "color-dodge",
+      "year": 2023
+    },
+    {
+      "number": "030",
+      "title": "waaaavvvvveeesss",
+      "source": "./art/day-030",
+      "format": "gif",
+      "blendMode": "luminosity",
+      "year": 2023
+    },
+    {
+      "number": "031",
+      "title": "noise",
+      "source": "./art/day-031",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "032",
+      "title": "eyeing you noise",
+      "source": "./art/day-032",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "033",
+      "title": "the wave of noise",
+      "source": "./art/day-033",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "034",
+      "title": "three noises",
+      "source": "./art/day-034",
+      "format": "gif",
+      "blendMode": "darken",
+      "year": 2023
+    },
+    {
+      "number": "035",
+      "title": "sine wave",
+      "source": "./art/day-035",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "036",
+      "title": "smooth ball",
+      "source": "./art/day-036",
+      "format": "gif",
+      "blendMode": "luminosity",
+      "year": 2023
+    },
+    {
+      "number": "037",
+      "title": "moving wave",
+      "source": "./art/day-037",
+      "format": "gif",
+      "blendMode": "luminosity",
+      "year": 2023
+    },
+    {
+      "number": "038",
+      "title": "a mapped sine",
+      "source": "./art/day-038",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "039",
+      "title": "a sine surprise",
+      "source": "./art/day-039",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "040",
+      "title": "i don't even know",
+      "source": "./art/day-040",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "041",
+      "title": "image me this",
+      "source": "./art/day-041",
+      "format": "gif",
+      "blendMode": "exclusion",
+      "year": 2023
+    },
+    {
+      "number": "042",
+      "title": "do you copy?",
+      "source": "./art/day-042",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "043",
+      "title": "beeeeeeees",
+      "source": "./art/day-043",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "044",
+      "title": "i like to move it, move it",
+      "source": "./art/day-044",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "045",
+      "title": "can you stand still?",
+      "source": "./art/day-045",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "046",
+      "title": "patterns",
+      "source": "./art/day-046",
+      "format": "gif",
+      "blendMode": "luminosity",
+      "year": 2023
+    },
+    {
+      "number": "047",
+      "title": "quote me",
+      "source": "./art/day-047",
+      "format": "gif",
+      "blendMode": "unset",
+      "year": 2023
+    },
+    {
+      "number": "048",
+      "title": "just arrays",
+      "source": "./art/day-048",
+      "format": "png",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "049",
+      "title": "2d arrays are trippy",
+      "source": "./art/day-049",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "050",
+      "title": "typography posters",
+      "source": "./art/day-050",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "051",
+      "title": "star felid",
+      "source": "./art/day-051",
+      "format": "gif",
+      "blendMode": "lighten",
+      "year": 2023
+    },
+    {
+      "number": "052",
+      "title": "star ship",
+      "source": "./art/day-052",
+      "format": "gif",
+      "blendMode": "lighten",
+      "year": 2023
+    },
+    {
+      "number": "053",
+      "title": "are you touching me?",
+      "source": "./art/day-053",
+      "format": "gif",
+      "blendMode": "lighten",
+      "year": 2023
+    },
+    {
+      "number": "054",
+      "title": "color me dots",
+      "source": "./art/day-054",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "055",
+      "title": "bouncing, bouncing, everywhere",
+      "source": "./art/day-055",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "056",
+      "title": "3d vision",
+      "source": "./art/day-056",
+      "format": "gif",
+      "blendMode": "color-dodge",
+      "year": 2023
+    },
+    {
+      "number": "057",
+      "title": "larpping",
+      "source": "./art/day-057",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "058",
+      "title": "are we close?",
+      "source": "./art/day-058",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "059",
+      "title": "rainbow seeds",
+      "source": "./art/day-059",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "060",
+      "title": "going in circles",
+      "source": "./art/day-060",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "061",
+      "title": "circles?",
+      "source": "./art/day-061",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "062",
+      "title": "too many motion",
+      "source": "./art/day-062",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "063",
+      "title": "veins",
+      "source": "./art/day-063",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "064",
+      "title": "rythmed pixels",
+      "source": "./art/day-064",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "065",
+      "title": "circlebeats",
+      "source": "./art/day-065",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "066",
+      "title": "pixelated grid",
+      "source": "./art/day-066",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "067",
+      "title": "cool bezier",
+      "source": "./art/day-067",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "068",
+      "title": "wild curves",
+      "source": "./art/day-068",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "069",
+      "title": "points a whirlwind",
+      "source": "./art/day-069",
+      "format": "gif",
+      "blendMode": "lighten",
+      "year": 2023
+    },
+    {
+      "number": "070",
+      "title": "star burst",
+      "source": "./art/day-070",
+      "format": "gif",
+      "blendMode": "lighten",
+      "year": 2023
+    },
+    {
+      "number": "071.0",
+      "title": "3d plant",
+      "source": "./art/day-071",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "071.1",
+      "title": "ellipse rotating in 3d",
+      "source": "./art/day-071-extra",
+      "format": "gif",
+      "blendMode": "lighten",
+      "year": 2023
+    },
+    {
+      "number": "071.2",
+      "title": "too many 3d",
+      "source": "./art/day-071-extra-2",
+      "format": "gif",
+      "blendMode": "lighten",
+      "year": 2023
+    },
+    {
+      "number": "072",
+      "title": "this was supposed to be about colors",
+      "source": "./art/day-072",
+      "format": "gif",
+      "blendMode": "soft-light",
+      "year": 2023
+    },
+    {
+      "number": "073",
+      "title": "i see grad",
+      "source": "./art/day-073",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "074",
+      "title": "revisionist history",
+      "source": "./art/day-074",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "075",
+      "title": "press me",
+      "source": "./art/day-075",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "076",
+      "title": "broken code",
+      "source": "./art/day-076",
+      "format": "gif",
+      "blendMode": "color-dodge",
+      "year": 2023
+    },
+    {
+      "number": "077",
+      "title": "what time is it?",
+      "source": "./art/day-077",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "078",
+      "title": "noise?",
+      "source": "./art/day-078",
+      "format": "gif",
+      "blendMode": "color-dodge",
+      "year": 2023
+    },
+    {
+      "number": "079",
+      "title": "let's filter up",
+      "source": "./art/day-079",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "080",
+      "title": "let's make a movie",
+      "source": "./art/day-080",
+      "format": "gif",
+      "blendMode": "luminosity",
+      "year": 2023
+    },
+    {
+      "number": "081",
+      "title": "drag me",
+      "source": "./art/day-081",
+      "format": "gif",
+      "blendMode": "darken",
+      "year": 2023
+    },
+    {
+      "number": "082",
+      "title": "smooth criminal",
+      "source": "./art/day-082",
+      "format": "gif",
+      "blendMode": "darken",
+      "year": 2023
+    },
+    {
+      "number": "083",
+      "title": "i've been dragged around for days",
+      "source": "./art/day-083",
+      "format": "gif",
+      "blendMode": "overlay",
+      "year": 2023
+    },
+    {
+      "number": "084",
+      "title": "i am a bit bored of the same example",
+      "source": "./art/day-084",
+      "format": "gif",
+      "blendMode": "color-dodge",
+      "year": 2023
+    },
+    {
+      "number": "085",
+      "title": "i am rectangular",
+      "source": "./art/day-085",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "086",
+      "title": "and then there was sound",
+      "source": "./art/day-086",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "087",
+      "title": "it's supposed to be rhythmical",
+      "source": "./art/day-087",
+      "format": "gif",
+      "blendMode": "overlay",
+      "year": 2023
+    },
+    {
+      "number": "088",
+      "title": "music beats",
+      "source": "./art/day-088",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "089",
+      "title": "land of oop",
+      "source": "./art/day-089",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "090",
+      "title": "i'm a bit jittery",
+      "source": "./art/day-090",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "091.1",
+      "title": "hypnotic",
+      "source": "./art/day-091",
+      "format": "gif",
+      "blendMode": "luminosity",
+      "year": 2023
+    },
+    {
+      "number": "091.2",
+      "title": "ozumaki",
+      "source": "./art/day-091-1",
+      "format": "gif",
+      "blendMode": "luminosity",
+      "year": 2023
+    },
+    {
+      "number": "092",
+      "title": "bytastic",
+      "source": "./art/day-092",
+      "format": "png",
+      "blendMode": "luminosity",
+      "year": 2023
+    },
+    {
+      "number": "093",
+      "title": "ani-bits",
+      "source": "./art/day-093",
+      "format": "gif",
+      "blendMode": "luminosity",
+      "year": 2023
+    },
+    {
+      "number": "094",
+      "title": "cheese",
+      "source": "./art/day-094",
+      "format": "gif",
+      "blendMode": "luminosity",
+      "year": 2023
+    },
+    {
+      "number": "095",
+      "title": "rose curve",
+      "source": "./art/day-095",
+      "format": "gif",
+      "blendMode": "luminosity",
+      "year": 2023
+    },
+    {
+      "number": "096",
+      "title": "once upon a time",
+      "source": "./art/day-096",
+      "format": "gif",
+      "blendMode": "luminosity",
+      "year": 2023
+    },
+    {
+      "number": "097",
+      "title": "abstract by video",
+      "source": "./art/day-097",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "098",
+      "title": "blobs",
+      "source": "./art/day-098",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2023
+    },
+    {
+      "number": "099",
+      "title": "back to basics",
+      "source": "./art/day-099",
+      "format": "gif",
+      "blendMode": "color-dodge",
+      "year": 2023
+    },
+    {
+      "number": "100",
+      "title": "recursiveland",
+      "source": "./art/day-100",
+      "format": "gif",
+      "blendMode": "luminosity",
+      "year": 2023
+    },
+    {
+      "number": "101",
+      "title": "a day for practice",
+      "source": "./art/day-101",
+      "format": "gif",
+      "blendMode": "difference",
+      "year": 2023
+    },
+    {
+      "number": "102",
+      "title": "another practice day",
+      "source": "./art/day-102",
+      "format": "gif",
+      "blendMode": "color-dodge",
+      "year": 2023
+    },
+    {
+      "number": "103",
+      "title": "layers make cool effects",
+      "source": "./art/day-103",
+      "format": "gif",
+      "blendMode": "color-dodge",
+      "year": 2023
+    },
+    {
+      "number": "104",
+      "title": "a little glow up",
+      "source": "./art/day-104",
+      "format": "gif",
+      "blendMode": "color-dodge",
+      "year": 2023
+    },
+    {
+      "number": "105",
+      "title": "extra glow up",
+      "source": "./art/day-105",
+      "format": "gif",
+      "blendMode": "color-dodge",
+      "year": 2023
+    },
+    {
+      "number": "106",
+      "title": "air draw",
+      "source": "./art/day-106",
+      "format": "gif",
+      "blendMode": "color-dodge",
+      "year": 2023
+    },
+    {
+      "number": "107",
+      "title": "mirror pixels",
+      "source": "./art/day-107",
+      "format": "gif",
+      "blendMode": "color-dodge",
+      "year": 2023
+    },
+    {
+      "number": "108",
+      "title": "moving galaxy",
+      "source": "./art/day-108",
+      "format": "gif",
+      "blendMode": "color-dodge",
+      "year": 2023
+    },
+    {
+      "number": "109",
+      "title": "spiraling",
+      "source": "./art/day-109",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2024
+    },
+    {
+      "number": "110",
+      "title": "beginnings",
+      "source": "./art/day-110",
+      "format": "gif",
+      "blendMode": "color-dodge",
+      "year": 2025
+    },
+    {
+      "number": "111",
+      "title": "waves",
+      "source": "./art/day-111",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2025
+    }
+  ]
 }
