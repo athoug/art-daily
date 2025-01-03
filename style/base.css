@@ -22,6 +22,8 @@
 html {
 	color-scheme: dark light;
 	scrollbar-width: none;
+	max-width: 2000px;
+	margin: auto;
 }
 
 body {
