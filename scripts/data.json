@@ -916,6 +916,14 @@
       "format": "gif",
       "blendMode": "multiply",
       "year": 2025
+    },
+    {
+      "number": "112",
+      "title": "rainbow circles",
+      "source": "./art/day-112",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2025
     }
   ]
 }
