@@ -1,7 +1,7 @@
 class Square {
 	constructor(x, y, r, angle) {
-		this.r = 0;
-		this.angle = 0;
+		this.r = r;
+		this.angle = angle;
 		this.size = 20;
 		this.x0 = x;
 		this.y0 = y;
@@ -11,13 +11,13 @@ class Square {
 		this.x = this.r * cos(this.angle);
 		this.y = this.r * sin(this.angle);
 
-		this.angle += 0.01;
+		this.angle += 0.05;
 	}
 
 	display() {
 		rectMode(CENTER);
 		noStroke();
-		fill('#3F0D12');
+		fill('#e3e4db');
 		push();
 		translate(this.x0 + this.x, this.y0 + this.y);
 		rect(0, 0, this.size, this.size);
