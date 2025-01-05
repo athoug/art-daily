@@ -932,6 +932,14 @@
       "format": "gif",
       "blendMode": "multiply",
       "year": 2025
+    },
+    {
+      "number": "114",
+      "title": "moving stars",
+      "source": "./art/day-114",
+      "format": "gif",
+      "blendMode": "multiply",
+      "year": 2025
     }
   ]
 }
