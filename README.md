@@ -7,6 +7,11 @@ At the start of this journey, I plan on using the resource [funprogramming.org ]
 The table below will hold the day, the sketch name, the link to the sketch, link to the article (if it exists)
 | Day | Sketch | Link | Article |
 | ----------- | ----------- | ----------- | ----------- |
+| 114 | continue on polar coordinates to cartician | [moving lines](https://athoug.github.io/art-daily/art/day-114/index.html) |
+| 113 | grid placment | [grid](https://athoug.github.io/art-daily/art/day-113/index.html) |
+| 112 | more on polar coordinates to cartician | [rainbow circles](https://athoug.github.io/art-daily/art/day-112/index.html) |
+| 111 | wave movment | [waves](https://athoug.github.io/art-daily/art/day-111/index.html) |
+| 110 | rotations | [beginnings](https://athoug.github.io/art-daily/art/day-110/index.html) |
 | 109 | polar coordinates to cartician | [spiraling](https://athoug.github.io/art-daily/art/day-109/index.html) |
 | 108 | Playing with 3D | [moving galaxy](https://athoug.github.io/art-daily/art/day-108/index.html) |
 | 107 | Camera Pixels | [mirror pixels](https://athoug.github.io/art-daily/art/day-107/index.html) |
